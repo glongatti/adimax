@@ -1,0 +1,3277 @@
+# Translation of Plugins - WOOF &#8211; Products Filter for WooCommerce - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WOOF &#8211; Products Filter for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-30 04:57:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WOOF &#8211; Products Filter for WooCommerce - Development (trunk)\n"
+
+#: index.php:3859
+msgid "No thanks"
+msgstr "No, gracias"
+
+#: index.php:3858
+msgid "Give Feedback"
+msgstr "Deja tu comentario"
+
+#: index.php:3856
+msgid "We are sorry to hear you aren't enjoying WOOF. We would love a chance to improve it. Could you take a minute and let us know what we can do better?"
+msgstr "Lamentamos que no estés disfrutando de WOOF. Nos encantaría tener la oportunidad de mejorarlo. ¿Podrías tomarte un minuto y hacernos saber qué podemos hacer mejor?"
+
+#: index.php:3851
+msgid "I already did"
+msgstr "Ya lo he hecho"
+
+#: index.php:3850
+msgid "Nope, maybe later"
+msgstr "No, quizá más tarde"
+
+#: index.php:3849
+msgid "Okay, you deserve it"
+msgstr "Vale, te lo mereces"
+
+#: index.php:3846
+msgid "That's awesome! Could you please do us a BIG favor and give it a 5-star rating on %s to help us spread the word and boost our motivation?"
+msgstr "¡Eso es fantástico! Por favor, ¿podrías hacernos un GRAN favor y darle una valoración de 5 estrellas en %s para ayudarnos a hacer correr la voz e impulsar nuestra motivación?"
+
+#: index.php:3842
+msgid "Not really..."
+msgstr "Realmente no..."
+
+#: index.php:3842
+msgid "Yes, I love it"
+msgstr "Sí, me encanta"
+
+#: index.php:3841
+msgid "Hi! Are you enjoying using <i>WOOF - WooCommerce Products Filter</i>?"
+msgstr "¡Hola! ¿Estás disfrutando usando <i>WOOF - WooCommerce Products Filter</i>?"
+
+#: index.php:3839
+msgid "Later"
+msgstr "Más tarde"
+
+#: views/plugin_options.php:2636
+msgid "This works with ionSlider only"
+msgstr "Esto solo funciona con ionSlider"
+
+#: views/plugin_options.php:2635
+msgid "Show price text inputs"
+msgstr "Mostrar campos de introducción de texto de precio"
+
+#: views/plugin_options.php:1977
+msgid "Translations"
+msgstr "Traducciones"
+
+#: views/plugin_options.php:1454
+msgid "Helps to more quickly find the minimum and maximum values for the filter by price on the site front and minimize server loading."
+msgstr "Ayuda a encontrar más rápidamente los valores mínimos y máximos del filtrado por precio en la portada del sitio y a minimizar la carga del servidor."
+
+#: views/plugin_options.php:1448
+msgid "clear"
+msgstr "vaciar"
+
+#: views/plugin_options.php:1421
+msgid "Optimize price filter"
+msgstr "Optimizar el filtro por precio"
+
+#: views/plugin_options.php:923
+msgid "Use sign # before link to apply strict compliance. Example: #https://your_site.com/product-category/man/"
+msgstr "Utiliza el signo # antes del enlace para aplicar un cumplimiento estricto. Ejemplo: #https://tu-sitio.com/categoria-producto/producto/"
+
+#: ext/sections/views/tabs_content.php:131
+msgid "This button is just helper which allows to assemble data for [woof] shortcode."
+msgstr "Este botón es simplemente una ayuda que permite unir datos para el shortcode [woof]."
+
+#: ext/sections/views/tabs_content.php:128
+msgid "Generate attributes for shortcode [woof]"
+msgstr "Generar atributos para el shortcode [woof]"
+
+#: ext/sections/views/tabs_content.php:118
+msgid "Create new section. Don`t forget to click on the save button."
+msgstr "Crear nueva sección. No olvides hacer clic en el botón de guardar."
+
+#: ext/sections/views/tabs_content.php:115
+msgid "Create section"
+msgstr "Crear sección"
+
+#: ext/sections/views/tabs_content.php:93
+msgid "Add section"
+msgstr "Añadir sección"
+
+#: ext/sections/views/tabs_content.php:87
+msgid "Behavior of how the filter sections will open."
+msgstr "Comportamiento de cómo se abrirán las secciones del filtro."
+
+#: ext/sections/views/tabs_content.php:69
+msgid "As radio"
+msgstr "Como botón de selección única"
+
+#: ext/sections/views/tabs_content.php:68
+msgid "As checkbox"
+msgstr "Como casilla de selección múltiple"
+
+#: ext/sections/views/tabs_content.php:61
+msgid "Sections behavior"
+msgstr "Comportamiento de las secciones"
+
+#: ext/sections/views/tabs_content.php:54
+msgid "Init sections by default"
+msgstr "Secciones iniciales por defecto"
+
+#: ext/sections/views/tabs_content.php:28
+msgid "Init sections"
+msgstr "Secciones iniciales"
+
+#: ext/sections/views/tabs_content.php:23
+msgid "Allows to wrap filter-elements into [close/open]-sections and make filter form more compact."
+msgstr "Permite envolver los elementos del filtro en secciones de abrir/cerrar y hacer que el filtro sea más compacto."
+
+#: ext/sections/index.php:145
+msgid "New section"
+msgstr "Nueva sección"
+
+#: ext/sections/index.php:58
+msgid "Sections"
+msgstr "Secciones"
+
+#: ext/export_import/views/tabs_content.php:33
+msgid "Here is generated WOOF settings data for export. You can only export WOOF settings and not taxonomies or other site data. For taxonomies, products and other  use special third-party plugins."
+msgstr "Estos son los ajustes generados de WOOF para la exportación. Puedes exportar solo los ajustes de WOOF y no las taxonomías u otros datos del sitio. Para taxonomías, productos y otros utiliza plugins especiales de terceros."
+
+#: ext/export_import/views/tabs_content.php:30
+msgid "Generate data for export"
+msgstr "Generar datos para la exportación"
+
+#: ext/export_import/views/tabs_content.php:25
+msgid "Export data"
+msgstr "Exportar datos"
+
+#: ext/export_import/views/tabs_content.php:18
+msgid "WARNING: this action will overwrite all current WOOF settings. Insert WOOF settings data you need to import! Here you can import only WOOF settings and nothing more! If your site don`t have taxonomies WOOF will not create them (you should create taxonomies before)."
+msgstr "ADVERTENCIA: Esta acción sustituirá todos los ajustes actuales de WOOF. ¡Introduce los datos de ajustes de WOOF que necesites importar! ¡Aquí solo puedes importar ajustes de WOOF y nada más!. Si tu sitio no tiene taxonomías WOOF no las creará (deberías crear antes taxonomías)."
+
+#: ext/export_import/views/tabs_content.php:15
+msgid "Import placed data"
+msgstr "Importar datos almacenados"
+
+#: ext/export_import/views/tabs_content.php:10
+msgid "Import data"
+msgstr "Importar datos"
+
+#: ext/export_import/index.php:94
+msgid "Error!"
+msgstr "¡Error!"
+
+#: ext/export_import/index.php:92
+msgid "Settings imported successfully. Reload the page please."
+msgstr "Ajustes importados correctamente. Recarga la página, por favor."
+
+#: ext/export_import/index.php:79
+msgid "Error! No data"
+msgstr "¡Error! No hay datos"
+
+#: ext/export_import/index.php:49
+msgid "No data to import!"
+msgstr "¡No hay ningún dato para importar!"
+
+#: ext/export_import/index.php:48
+msgid "Are you sure? Settings will be overwritten!"
+msgstr "¿Estás seguro? ¡Se sustituirán los ajustes!"
+
+#: ext/export_import/index.php:39
+msgid "Export/Import"
+msgstr "Exportar/Importar"
+
+#: ext/by_rating/views/options.php:46
+msgid "Show  stars in drop-down"
+msgstr "Mostar estrellas en el desplegable"
+
+#: ext/by_rating/views/options.php:28
+msgid "Search by rating"
+msgstr "Buscar por valoración"
+
+#: ext/by_rating/views/woof.php:34
+msgid "SS"
+msgstr "SS"
+
+#: ext/by_rating/views/woof.php:33
+msgid "SSS"
+msgstr "SSS"
+
+#: ext/by_rating/views/woof.php:32
+msgid "SSSS"
+msgstr "SSSS"
+
+#: ext/by_rating/views/woof.php:31
+msgid "SSSSS"
+msgstr "SSSSS"
+
+#: ext/conditionals/views/tabs_content.php:42
+msgid "Possible keys"
+msgstr "Claves posibles"
+
+#: ext/conditionals/views/tabs_content.php:38
+msgid "Syntax example: product_cat>pa_size,by_instock>pa_color. In the example described: if a user will select a [product category] then filter by [pa_size] or [by_instock] will be appeared [pa_color]. For shortcode [woof] use an attribute: [conditionals]. Use line break in the textarea to define some rules (press Enter keyboard). In [woof] shortcode to define some rules use sign: [+]."
+msgstr "Ejemplo de sintaxis: product_cat>pa_size,by_instock>pa_color. En el ejemplo descrito: si u n usuario selecciona una [product category] entonces el filtro por [pa_size] o [by_instock] aparecerá [pa_color]. Para el shortcode [woof] usa un atributo: [conditionals]. Usa saltos de línea en el textarea para definir algunas reglas (pulsa Intro en el teclado). En el shortcode [woof] para definir algunas reglas usa el signo: [+]."
+
+#: ext/conditionals/views/tabs_content.php:37
+msgid "You can define the conditions for displaying filter elements depending of the current filtering request. Briefly this feature allows to hide some filter-elements while others are not selected. Or vice versa - show some filter-elements if some another filter elements are selected."
+msgstr "Puedes definir las condiciones para mostrar elementos del filtro dependiendo de la solicitud de filtrado actual. Brevemente, esta característica permite ocultar algunos elementos del filtro mientras que no hay otros seleccionados. O viceversa - mostrar algunos elementos del filtro si están seleccionados otros elementos de filtro."
+
+#: ext/conditionals/views/tabs_content.php:30
+msgid "In FREE version it is possible to operate with 1 condition (first) only!"
+msgstr "¡En la versión GRATUITA no es puede operar solo con 1 condición (primero)!"
+
+#: ext/conditionals/views/tabs_content.php:24
+msgid "Data for default filter"
+msgstr "Datos para el filtro por defecto"
+
+#: ext/conditionals/index.php:59
+msgid "Сonditionals"
+msgstr "Condicionales"
+
+#: classes/alert.php:188
+msgid "Try new WooCommerce plugin for displaying your shop products in table format"
+msgstr "Pruebe el nuevo plugin de WooCommerce para mostrar tus productos de la tienda en formato de tabla"
+
+#: classes/alert.php:143
+msgid "Try new plugin for managing and bulk edit WooCommerce Products data in robust and flexible way"
+msgstr "Prueba en el nuevo plugin para gestionar y editar en lotes datos de productos WooCommerce de un modo robusto y flexible"
+
+#: classes/alert.php:100 classes/alert.php:145 classes/alert.php:190
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#: classes/alert.php:99 classes/alert.php:144 classes/alert.php:189
+msgid "Install"
+msgstr "Instalar"
+
+#: classes/alert.php:98
+msgid "For more <b>marketing attraction</b> of the shop WOOF team recommends you to install"
+msgstr "Para más <b>atracción de marketing</b> de la tienda el equipo WOOF te recomienda instalar"
+
+#: index.php:900
+msgid "Clear All"
+msgstr "Vaciar todo"
+
+#: index.php:556
+msgid "Go Pro!"
+msgstr "¡Obtener la versión Pro!"
+
+#: views/plugin_options.php:2738
+msgid "WOOT"
+msgstr "WOOT"
+
+#: views/plugin_options.php:2737
+msgid "WooCommerce Products Tables"
+msgstr "WooCommerce Products Tables"
+
+#: views/plugin_options.php:2097
+msgid "WooCommerce Active Products Table - WOOT - (new name is PROTAS) WooCommerce plugin for displaying shop products in table format. Woo Products Tables makes focus for your buyers on the things they want to get, nothing superfluous, just what the client wants, and full attention to what is offered!"
+msgstr "WooCommerce Active Products Table - WOOT - (el nuevo nombre es PROTAS) Plugin para WooCommerce para mostrar los productos de la tienda en formato de tabla. Woo Products Tables hace que tus compradores se centren en las cosas que quieren conseguir, nada superfluo, solo lo que el cliente quiere y ¡una atención total a lo que se ofrece!"
+
+#: views/plugin_options.php:2783
+msgid "If you want to exclude some current taxonomies terms from the search form! Use Reverse if you want include only instead of exclude! Example: 11,23,77"
+msgstr "¡Si quieres excluir algunos términos de las taxonomías actuales del formulario de búsqueda! ¡Usa «Invertir» si solo quieres incluir en lugar de excluir! Por ejemplo: 11,23,77"
+
+#: views/plugin_options.php:2780
+msgid "Reverse"
+msgstr "Invertir"
+
+#: views/plugin_options.php:2387
+msgid "NOT IN"
+msgstr "NO EN"
+
+#: views/plugin_options.php:2379
+msgid "If to select NOT IN will be found items which not has selected terms!! Means vice versa to the the concept of including: excluding"
+msgstr "¡Si seleccionas NO EN, se encontrarán artículos que no tengan términos seleccionados! Significa viceversa al concepto de incluir: excluir"
+
+#: views/plugin_options.php:1976
+msgid "Support"
+msgstr "Soporte"
+
+#: views/plugin_options.php:1967
+msgid "Links"
+msgstr "Enlaces"
+
+#: views/plugin_options.php:1573
+msgid "Css class of per page dropdown container. Is needed for ajax compatibility with wp themes. If you do not understand, leave it blank."
+msgstr "Clase CSS del contenedor desplegable por página.. Es necesario para la compatibilidad de ajax con temas de WordPress. Si no lo entiendes, déjalo en blanco."
+
+#: views/plugin_options.php:1560
+msgid "Per page css selector"
+msgstr "Selector css por página"
+
+#: views/plugin_options.php:1553
+msgid "Css class of ordering dropdown container. Is needed for ajax compatibility with wp themes. If you do not understand, leave it blank."
+msgstr "Clase CSS del contenedor desplegable de pedidos. Es necesario para la compatibilidad de ajax con temas de WordPress. Si no lo entiendes, déjalo en blanco."
+
+#: views/plugin_options.php:1540
+msgid "Order dropdown css selector"
+msgstr "Selector desplegable de CSS de pedidos"
+
+#: views/plugin_options.php:1532
+msgid "Css class of result-count container. Is needed for ajax compatibility with wp themes. If you do not understand, leave it blank."
+msgstr "Clase CSS del contenedor de recuento de resultados. Es necesario para la compatibilidad de ajax con temas de WordPress. Si no lo entiendes, déjalo en blanco."
+
+#: views/plugin_options.php:1519
+msgid "Result count css selector"
+msgstr "Selector de css de recuento de resultados"
+
+#: views/plugin_options.php:1139
+msgid "For variable products you can show an image depending on the current filter selection. For example you have variation with red color, and that varation has its own preview image - if on the site front user will select red color this imag will be shown. You can select attributes by which images will be selected"
+msgstr "Para productos variables, puedes mostrar una imagen según la selección de filtro actual. Por ejemplo, si tienes una variación con el color rojo, y esa variación tiene su propia imagen de vista previa; si en la parte visible del sitio el usuario seleccionará el color rojo, se mostrará esta imagen. Puedes seleccionar atributos por los que se seleccionarán las imágenes"
+
+#: views/plugin_options.php:1108
+msgid "Show image of variation"
+msgstr "Mostrar la imagen de la variación"
+
+#: views/plugin_options.php:908
+msgid "Reverse: deactivate plugin on the next site pages only"
+msgstr "Inverso: desactiva el plugin solo en las siguientes páginas del sitio"
+
+#: views/plugin_options.php:39
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "Actualizado para WooCommerce v.%s.X"
+
+#: classes/rate_alert.php:71
+msgid "Thank you, I did it!"
+msgstr "¡Gracias, ya lo hice!"
+
+#: classes/rate_alert.php:67
+msgid "Ok, you deserve it"
+msgstr "Vale, te lo mereces"
+
+#: classes/rate_alert.php:63
+msgid "Nope, maybe later!"
+msgstr "¡No, quizás más tarde!"
+
+#: ext/slideout/views/tabs_content.php:370
+msgid "By this button you can set settings and generate shortcode for your needs for on single pages. After using, if you do not want the settings became globals, refresh the page to avoid settings saving!"
+msgstr "Mediante este botón puedes establecer los ajustes y crear un shortcode para tus necesidades en las páginas. Después de usarlo, si no deseas que los ajustes sean globales, actualiza la página para evitar que se guarden."
+
+#: ext/slideout/views/tabs_content.php:366
+msgid "Generate shortcode"
+msgstr "Generar shortcode"
+
+#: ext/slideout/views/tabs_content.php:358
+msgid "Should the slideout button be visible on mobile devices"
+msgstr "¿Debería estar visible el botón deslizable en dispositivos móviles?"
+
+#: ext/slideout/views/tabs_content.php:339
+msgid "Show only on desktop"
+msgstr "Mostrar solo en escritorio"
+
+#: ext/slideout/views/tabs_content.php:338
+msgid "Show only on mobile"
+msgstr "Mostrar solo en dispositivos móviles"
+
+#: ext/slideout/views/tabs_content.php:337
+msgid "Show on all devices"
+msgstr "Mostrar en todos los dispositivos"
+
+#: ext/slideout/views/tabs_content.php:330
+msgid "Mobile behavior"
+msgstr "Comportamiento móvil"
+
+#: ext/slideout/views/tabs_content.php:324
+msgid "how to show slideout popup after page loaded: opened or closed"
+msgstr "cómo mostrar la ventana emergente deslizable después de cargar la página: abierta o cerrada"
+
+#: ext/slideout/views/tabs_content.php:297
+msgid "State after init"
+msgstr "Estado después de init"
+
+#: ext/slideout/views/tabs_content.php:291
+msgid "Width and height of the popup html container size in (px)"
+msgstr "Ancho y alto del tamaño del contenedor html emergente en (px)"
+
+#: ext/slideout/views/tabs_content.php:268
+msgid "Сontainer size"
+msgstr "Tamaño del contenedor"
+
+#: ext/slideout/views/tabs_content.php:251
+msgid "Button offset (px) from top or left from the window edge"
+msgstr "Separación del botón (px) desde la esquina superior o izquierda de la pantalla"
+
+#: ext/slideout/views/tabs_content.php:237
+msgid "Offset"
+msgstr "Separación"
+
+#: ext/slideout/views/tabs_content.php:231
+#: ext/slideout/views/tabs_content.php:259
+msgid "%"
+msgstr "%"
+
+#: ext/slideout/views/tabs_content.php:230
+#: ext/slideout/views/tabs_content.php:258
+msgid "px"
+msgstr "px"
+
+#: ext/slideout/views/tabs_content.php:222
+msgid "Way to show of slideout popup out: click or hover"
+msgstr "Forma en la que se muestra la ventana emergente de Slideout: al hacer clic o al pasar el cursor"
+
+#: ext/slideout/views/tabs_content.php:203
+msgid "Hover"
+msgstr "al pasar el cursor"
+
+#: ext/slideout/views/tabs_content.php:202
+msgid "Click"
+msgstr "Clic"
+
+#: ext/slideout/views/tabs_content.php:195
+msgid "Action"
+msgstr "Acción"
+
+#: ext/slideout/views/tabs_content.php:188
+msgid "popup animation speed in (ms)"
+msgstr "velocidad de la animación de la ventana emergente (ms)"
+
+#: ext/slideout/views/tabs_content.php:181
+msgid "Speed"
+msgstr "Velocidad"
+
+#: ext/slideout/views/tabs_content.php:174
+msgid "Where to show slideout button: right, left, top"
+msgstr "Dónde mostrar el botón de Slideout: derecha, izquierda, arriba"
+
+#: ext/slideout/views/tabs_content.php:153
+msgid "Left"
+msgstr "Izquierda"
+
+#: ext/slideout/views/tabs_content.php:152
+msgid "Right"
+msgstr "Derecha"
+
+#: ext/slideout/views/tabs_content.php:145
+msgid "Position"
+msgstr "Posición"
+
+#: ext/slideout/views/tabs_content.php:138
+msgid "Width X Height (px) of the button image"
+msgstr "Ancho X alto (px) de la imagen del botón"
+
+#: ext/slideout/views/tabs_content.php:125
+msgid "Button image size"
+msgstr "Tamaño de la imagen del botón"
+
+#: ext/slideout/views/tabs_content.php:118
+msgid "Custom text of the button"
+msgstr "Texto personalizado del botón"
+
+#: ext/slideout/views/tabs_content.php:110
+msgid "Slideout text"
+msgstr "Texto de Slideout"
+
+#: ext/slideout/views/tabs_content.php:102
+msgid "Url of the custom image for the button"
+msgstr "URL de la imagen personalizada para el botón"
+
+#: ext/slideout/views/tabs_content.php:94
+msgid "Slideout image"
+msgstr "Imagen de Slideout"
+
+#: ext/slideout/views/tabs_content.php:86
+msgid "Image or text, button-image can be selected below of the option, instead of default one in Slideout image field. If text - you can below of the option insert Slideout text"
+msgstr "La imagen, el texto y la imagen de botón se pueden seleccionar debajo de esta opción, en lugar de la predeterminada en el campo de imagen de Slideout. Si es texto, puedes insertarlo en el texto del carrusel."
+
+#: ext/slideout/views/tabs_content.php:67
+msgid "as Text"
+msgstr "como texto"
+
+#: ext/slideout/views/tabs_content.php:66
+msgid "as Image"
+msgstr "como imagen "
+
+#: ext/slideout/views/tabs_content.php:59
+msgid "Button as"
+msgstr "Botón como"
+
+#: ext/slideout/views/tabs_content.php:52
+msgid "Show/Hide slideout on shop pages"
+msgstr "Mostrar/ocultar Slideout en las páginas de la tienda"
+
+#: ext/slideout/views/tabs_content.php:33
+msgid "Show"
+msgstr "Mostrar"
+
+#: ext/slideout/views/tabs_content.php:32
+msgid "Hide"
+msgstr "Ocultar"
+
+#: ext/slideout/views/tabs_content.php:25
+msgid "Global visibility"
+msgstr "Visibilidad global"
+
+#: ext/slideout/index.php:80
+msgid "Slideout"
+msgstr "Slideout"
+
+#: ext/query_save/views/options.php:203
+msgid "Any text notes for customer. Example: Sorry! This product is not suitable for your search %title%."
+msgstr "Cualquier nota de texto para el cliente. Por ejemplo: ¡Lo siento! Este producto no es adecuado para tu búsqueda %title%."
+
+#: ext/query_save/views/options.php:202
+msgid "Text if current product is not suitable for saved searches"
+msgstr "Texto si el producto actual no es adecuado para búsquedas guardadas"
+
+#: ext/query_save/views/options.php:191
+msgid "Any text notes for customer. Example: This product matches your search: %title%."
+msgstr "Cualquier nota de texto para el cliente. Por ejemplo: este producto coindice con tu búsqueda: %title%."
+
+#: ext/query_save/views/options.php:190
+msgid "Text if current product is suitable for saved searches"
+msgstr "Texto si el producto actual es apto para búsquedas guardadas"
+
+#: ext/query_save/views/options.php:170
+msgid "Show notice on product page"
+msgstr "Mostrar aviso en la página de producto"
+
+#: ext/query_save/views/options.php:151
+msgid "Yes(only if the product exists)"
+msgstr "Sí (solo si el producto existe)"
+
+#: ext/query_save/views/options.php:144 ext/query_save/views/options.php:171
+msgid "Display message if current product is suitable for saved search"
+msgstr "Mostrar mensaje si el producto actual es apto para la búsqueda guardada"
+
+#: ext/query_save/views/options.php:143
+msgid "Show notice"
+msgstr "Mostrar aviso"
+
+#: ext/query_save/views/options.php:63
+msgid "Sorry! This product is not suitable for your search %title%."
+msgstr "¡Lo siento! Este producto no es adecuado para tu búsqueda %title%."
+
+#: ext/query_save/views/options.php:60
+msgid "This product matches your search %title%."
+msgstr "Este producto coincide con tu búsqueda %title%."
+
+#: ext/turbo_mode/views/tabs_content.php:19
+msgid "More about extension"
+msgstr "Más acerca de la extensión"
+
+#: ext/products_messenger/index.php:300 ext/query_save/index.php:130
+msgid "Сount is max"
+msgstr "El contador está al máximo"
+
+#: ext/select_radio_check/index.php:33
+msgid "Radio/Checkbox in drop-down"
+msgstr "Radio/Checkbox in drop-down"
+
+#: ext/by_rating/views/woof.php:43
+msgid "Min rating: "
+msgstr "Puntuación mínima:"
+
+#: ext/turbo_mode/index.php:582
+msgid "Yes, only for PC"
+msgstr "Sí, solo en PC"
+
+#: ext/turbo_mode/index.php:581
+msgid "Yes, for all devices"
+msgstr "Sí, para todos los dispositivos"
+
+#: views/plugin_options.php:1974
+msgid "FAQ"
+msgstr "FAQ"
+
+#: views/plugin_options.php:1973
+msgid "WOOF documentation"
+msgstr "Documentación WOOF"
+
+#: views/plugin_options.php:1059
+msgid "do not use shortcodes here in turbo mode"
+msgstr "no uses shortcodes en el modo turbo"
+
+#: views/plugin_options.php:527
+msgid "Use tooltip library on the front of your site. Possible to disable it here if any scripts conflicts on the site front."
+msgstr "Utiliza la biblioteca de información emergente en la parte visible de tu sitio. Es posible desactivarlo aquí si algún script entra en conflicto en la parte visible del sitio."
+
+#: views/plugin_options.php:497
+msgid "Use tooltip"
+msgstr "Usar información emergente"
+
+#: views/plugin_options.php:38
+msgid "WOOF - WooCommerce Products Filter v.%s"
+msgstr "WOOF - WooCommerce Products Filter v.%s"
+
+#: classes/rate_alert.php:48
+msgid "support"
+msgstr "soporte"
+
+#: index.php:1380
+msgid "Show count of items near taxonomies terms on the front dynamically. Must be switched on \"Show count\". In turbo mode if filter is very big better select \"Yes, only for PC\""
+msgstr "Muestra el recuento de elementos cerca de taxonomías en la parte visible del sitio de forma dinámica. Debe estar activado «Mostrar recuento». En modo turbo, si el filtro es muy grande, mejor selecciona «Sí, solo para PC»"
+
+#: ext/by_text/views/options.php:327
+msgid "Any notes for customer."
+msgstr "Notas para el cliente"
+
+#: ext/by_text/views/options.php:301
+msgid "Ability to search by the description of the any variation in the variable product"
+msgstr "Capacidad para buscar por la descripción de cualquier variación en el producto variable"
+
+#: ext/by_text/views/options.php:300
+msgid "Search by description in variations"
+msgstr "Buscar por descripciones en variaciones"
+
+#: ext/turbo_mode/views/tabs_content.php:209
+msgid "It is better to keep products data file in wp-uploads folder to avoid data removing after the plugin update, but not all hosting providers allows to get json data from this folder, so if you select keep data in the plugin folder remember about it and reassemble products data using button above after the plugin update."
+msgstr "Es mejor mantener el archivo de datos de los productos en la carpeta wp-uploads para evitar la eliminación de datos después de la actualización del plugin, pero no todos los proveedores de alojamiento permiten obtener datos json de esta carpeta, por lo que si seleccionas mantener los datos en la carpeta del plugin, recuérdalo y vuelve a ensamblar los datos de los productos usando el botón de arriba después de la actualización del plugin."
+
+#: ext/turbo_mode/views/tabs_content.php:182
+msgid "Where to keep products data file"
+msgstr "Dónde guardar el archivo de datos de productos"
+
+#: ext/turbo_mode/views/tabs_content.php:174
+msgid "You can always assemble products data for Turbo Mode by one click! While its assembling filtering on the site front is still possible with previous assembled products data until new data assembled!"
+msgstr "¡Siempre puedes ensamblar los datos de los productos para el modo turbo con un solo clic! ¡Mientras que su filtrado de ensamblaje en la portada del sitio sigue siendo posible con los datos de los productos ensamblados anteriormente hasta que se ensamblen los nuevos datos!"
+
+#: ext/turbo_mode/views/tabs_content.php:167
+msgid "File updated!!!"
+msgstr "¡Archivo actualizado!"
+
+#: ext/turbo_mode/views/tabs_content.php:159
+msgid "Reassemble products data now!"
+msgstr "¡Vuelve a ensamblar los datos de los productos ahora!"
+
+#: ext/turbo_mode/views/tabs_content.php:151
+msgid "How often update products data file"
+msgstr "Con qué frecuencia actualizar el archivo de datos de productos"
+
+#: ext/turbo_mode/views/tabs_content.php:129
+msgid "without update"
+msgstr "sin actualización"
+
+#: ext/turbo_mode/views/tabs_content.php:89
+msgid "Select acceptable for your hosting type of cron"
+msgstr "Selecciona aceptar para tu tipo de alojamiento de cron"
+
+#: ext/turbo_mode/views/tabs_content.php:58
+msgid "Cron type"
+msgstr "Tipo de Cron"
+
+#: ext/turbo_mode/views/tabs_content.php:52
+msgid "After activation of Turbo Mode firstly what should be done is generating of the data file, see button below. And also do not forget to set cron mode."
+msgstr "Después de la activación del modo turbo, lo que se debe hacer en primer lugar es generar el archivo de datos, consulta el botón a continuación. Tampoco olvides establecer el modo cron."
+
+#: ext/turbo_mode/views/tabs_content.php:25
+msgid "Enable turbo mode"
+msgstr "Activar el modo turbo"
+
+#: ext/turbo_mode/views/tabs_content.php:17
+msgid "Boost speed of products filtering. This mode allows to avoid generating big MySQL queries while products filtering on the site front what makes less loading to the server and getting filtering results more quick"
+msgstr "Aumenta la velocidad de filtrado de productos. Este modo permite evitar generar grandes consultas de MySQL mientras los productos se filtran en la parte visual del sitio, lo que hace que se cargue menos el servidor y se obtengan resultados de filtrado más rápidos."
+
+#: ext/turbo_mode/index.php:177
+msgid "Turbo mode"
+msgstr "Modo turbo"
+
+#: ext/turbo_mode/index.php:86
+msgid "Products and Variants"
+msgstr "Productos y variantes"
+
+#: ext/turbo_mode/index.php:85
+msgid "Creating"
+msgstr "Creando"
+
+#: ext/meta_filter/html_types/datepicker/views/woof.php:127
+msgid "Clear"
+msgstr "Vaciar"
+
+#: ext/sections/index.php:152
+#: ext/meta_filter/html_types/datepicker/views/woof.php:125
+msgid "to"
+msgstr "a"
+
+#: ext/meta_filter/html_types/datepicker/views/woof.php:120
+msgid "Сlear"
+msgstr "Limpiar"
+
+#: ext/sections/index.php:146
+#: ext/meta_filter/html_types/datepicker/views/woof.php:118
+msgid "from"
+msgstr "de"
+
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:92
+msgid "Full - DD, d MM, yy"
+msgstr "Completo - DD, d MM, AA"
+
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:91
+msgid "Medium - d MM, y"
+msgstr "Medio - d, MM, a"
+
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:90
+msgid "Short - d M, y"
+msgstr "Corto - d M, a"
+
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:89
+msgid "ISO 8601 - yy-mm-dd"
+msgstr "ISO 8601 - aa-mm-dd"
+
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:88
+msgid "Europe - dd-mm-yy"
+msgstr "Europa - dd - mm - aa"
+
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:87
+msgid "Default - mm/dd/yy"
+msgstr "Por defecto - mm/dd/aa"
+
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:80
+msgid "jQuery-ui calendar date format"
+msgstr "jQuery-ui formato de fecha del calendario"
+
+#: ext/meta_filter/html_types/datepicker/views/woof.php:100
+#: ext/meta_filter/html_types/datepicker/index.php:158
+msgid "to: %s"
+msgstr "Para: %s"
+
+#: ext/meta_filter/html_types/datepicker/views/woof.php:96
+#: ext/meta_filter/html_types/datepicker/index.php:154
+msgid "from: %s"
+msgstr "De: %s"
+
+#: ext/meta_filter/index.php:86
+msgid "Datepicker"
+msgstr "Selector de fecha"
+
+#. Plugin URI of the plugin
+msgid "https://products-filter.com/"
+msgstr "https://products-filter.com/"
+
+#: views/plugin_options.php:2597
+msgid "Example: 0-50,51-100,101-i. Where \"i\" is infinity."
+msgstr "Ejemplo: 0-50,51-100,101-i. Donde \"i\" es infinito."
+
+#: views/plugin_options.php:2378
+msgid "AND or OR: if to select AND and on the site front select 2 terms - will be found products which contains both terms on the same time."
+msgstr "Y o O: si seleccionas Y y en el sitio público seleccionas 2 términos, se encontrarán productos que contengan ambos términos al mismo tiempo."
+
+#: views/plugin_options.php:2377
+msgid "Logic of filtering"
+msgstr "Lógica de filtrado"
+
+#: views/plugin_options.php:2362
+msgid "DESC"
+msgstr "DESC"
+
+#: views/plugin_options.php:2361
+msgid "ASC"
+msgstr "ASC"
+
+#: views/plugin_options.php:2354
+msgid "Direction of terms sorted inside of filter block"
+msgstr "Dirección de los términos ordenados dentro del bloque de filtro"
+
+#: views/plugin_options.php:2338
+msgid "Numeric."
+msgstr "Numérico."
+
+#: views/plugin_options.php:2336
+msgid "Id"
+msgstr "Id"
+
+#: views/plugin_options.php:2328
+msgid "How to sort terms inside of filter block"
+msgstr "Cómo ordenar los términos dentro del bloque de filtro"
+
+#: views/plugin_options.php:2327 views/plugin_options.php:2353
+msgid "Sort terms"
+msgstr "Ordenar términos"
+
+#: views/plugin_options.php:621
+msgid "Image which displayed for tooltip"
+msgstr "Imagen mostrada en la información emergente"
+
+#: views/plugin_options.php:613
+msgid "Tooltip icon"
+msgstr "Icono de información emergente"
+
+#: ext/step_filer/index.php:106
+msgid "Back"
+msgstr "Atrás"
+
+#: ext/step_filer/index.php:102
+msgid "Next"
+msgstr "Siguiente"
+
+#: ext/step_filer/views/tabs_content.php:13 ext/step_filer/index.php:42
+msgid "Step by step filter"
+msgstr "Filtro paso a paso"
+
+#: ext/query_save/views/shortcodes/woof_save_query.php:100
+msgid "Please fill the title field."
+msgstr "Por favor, rellena el campo de título"
+
+#: ext/query_save/views/options.php:119
+msgid "Max saved queries per user"
+msgstr "Máximo de consultas guardadas por usuario"
+
+#: ext/query_save/views/options.php:107
+msgid "The text in the button"
+msgstr "El texto del botón"
+
+#: ext/query_save/views/options.php:106
+msgid "Button label"
+msgstr "Etiqueta de botón"
+
+#: ext/query_save/views/options.php:95
+msgid "The placeholder  in title field"
+msgstr "El marcador de posición en el campo de título"
+
+#: ext/query_save/views/options.php:94
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+#: ext/query_save/views/options.php:45
+msgid "Add this query"
+msgstr "Añadir esta consulta"
+
+#: ext/query_save/views/options.php:42
+msgid "Title of the Query*"
+msgstr "Título de la consulta*"
+
+#: ext/query_save/views/options.php:39
+msgid "Save current search query"
+msgstr "Guardar la consulta de búsqueda actual"
+
+#: ext/query_save/views/options.php:19
+msgid "User can save the search query"
+msgstr "El usuario puede guardar la consulta de búsqueda"
+
+#: ext/sections/index.php:99 ext/query_save/views/options.php:17
+msgid "Save search query"
+msgstr "Guardar consulta de búsqueda"
+
+#: ext/query_save/index.php:135
+msgid "My query"
+msgstr "Mi consulta"
+
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:66
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:66
+#: ext/meta_filter/html_types/slider/views/additional_options.php:69
+#: ext/meta_filter/html_types/select/views/additional_options.php:66
+#: views/plugin_options.php:2230 views/plugin_options.php:2577
+msgid "Show tooltip"
+msgstr "Mostrar información emergente"
+
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:65
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:65
+#: ext/meta_filter/html_types/slider/views/additional_options.php:68
+#: ext/meta_filter/html_types/select/views/additional_options.php:65
+#: views/plugin_options.php:2229 views/plugin_options.php:2576
+msgid "Tooltip"
+msgstr "Información emergente"
+
+#: classes/widgets.php:203
+msgid "The submit and reset buttons position in current search form"
+msgstr "La posición de los botones de envío y restablecimiento en el formulario de búsqueda actual"
+
+#: classes/widgets.php:195
+msgid "Top AND Bottom"
+msgstr "Arriba y abajo"
+
+#: ext/slideout/views/tabs_content.php:154 classes/widgets.php:194
+msgid "Top"
+msgstr "Arriba"
+
+#: classes/widgets.php:171
+msgid "Dynamic recount for current search form"
+msgstr "Recuento dinámico para el actual formulario de búsqueda"
+
+#: views/plugin_options.php:2728
+msgid "WOOBE"
+msgstr "WOOBE"
+
+#: views/plugin_options.php:2727
+msgid "WooCommerce Bulk Editor"
+msgstr "Editor por lotes de WooCommerce"
+
+#: views/plugin_options.php:2722
+msgid "WOOF FULL VERSION"
+msgstr "VERSIÓN COMPLETA DE WOOF"
+
+#: views/plugin_options.php:2655
+msgid "It will be counted in the filter( Only for ion-slider )"
+msgstr "Se contará en el filtro (\"Solo para ion-slider\")"
+
+#: views/plugin_options.php:2654
+msgid "Tax"
+msgstr "Impuesto"
+
+#: views/plugin_options.php:2653
+msgid "Taxes"
+msgstr "Impuestos"
+
+#: views/plugin_options.php:2092
+msgid "WordPress plugin for managing and bulk edit WooCommerce Products data in robust and flexible way! Be professionals with managing data of your woocommerce e-shop!"
+msgstr "¡Plugin de WordPress para gestionar y editar por lotes los datos de productos de WooCommerce de una forma robusta y flexible! ¡Gestiona los datos de tu tienda online en WooCommerce de forma profesional!"
+
+#: views/plugin_options.php:2047
+msgid "GDPR info"
+msgstr "Información RGPD"
+
+#: views/plugin_options.php:2041
+msgid "GDPR"
+msgstr "RGPD"
+
+#: views/plugin_options.php:1059
+msgid "Place in which you can paste text or/and any shortcodes which will be displayed when customer will not find any products by his search criterias. Example:"
+msgstr "Lugar en el que se puede pegar el texto y/o los atajos que se mostrarán cuando el cliente no encuentre ningún producto por sus criterios de búsqueda. Ejemplo:"
+
+#: views/plugin_options.php:1046
+msgid "Override no products found content"
+msgstr "Anular el contenido de los productos no encontrados"
+
+#: views/plugin_options.php:599
+msgid "Skins for the auto-filter which appears on the shop page if in tab Options enabled Set filter automatically"
+msgstr "Estilos para el filtro automático que aparece en la página de la tienda si en la pestaña de opciones está activo «Configurar el filtro automáticamente»"
+
+#: views/plugin_options.php:583
+msgid "Flat dark (4columns) without sidebar*"
+msgstr "Plano oscuro (4 columnas) sin barra lateral *"
+
+#: views/plugin_options.php:582
+msgid "Flat grey (4columns) without sidebar*"
+msgstr "Plano gris (4 columnas) sin barra lateral *"
+
+#: views/plugin_options.php:581
+msgid "Flat dark (1column)"
+msgstr "Plano oscuro (1 columna)"
+
+#: views/plugin_options.php:580
+msgid "Flat grey (1column)"
+msgstr "Plano gris (1 columna)"
+
+#: views/plugin_options.php:579
+msgid "Flat dark (2columns)"
+msgstr "Plano oscuro (2 columnas)"
+
+#: views/plugin_options.php:578
+msgid "Flat grey (2columns)"
+msgstr "Plano gris (2 columnas)"
+
+#: views/plugin_options.php:577
+msgid "Flat dark (3columns)"
+msgstr "Plano oscuro (3 columnas)"
+
+#: views/plugin_options.php:576
+msgid "Flat grey (3columns)"
+msgstr "Plano gris (3 columnas)"
+
+#: views/plugin_options.php:568
+msgid "Skins for the auto filter"
+msgstr "Estilos para el filtro automático"
+
+#: views/html_types/radio.php:106 views/html_types/radio.php:220
+#: views/shortcodes/woof_price_filter_radio.php:51
+msgid "Delete"
+msgstr "Eliminar"
+
+#: index.php:1347
+msgid "Yes, but only for desktop"
+msgstr "Si, pero solo en escritorio"
+
+#: index.php:1346
+msgid "Yes, but only for mobile devices"
+msgstr "Si, pero solo en dispositivos moviles"
+
+#: ext/stat/views/tabs_content.php:356
+msgid "Select taxonomies and meta keys which you want to track"
+msgstr "Selecciona las taxonomías y claves meta que quieres rastrear"
+
+#: ext/stat/views/tabs_content.php:37
+msgid "Update"
+msgstr "Actualizar"
+
+#: ext/stat/views/tabs_content.php:36
+msgid "Please update database: "
+msgstr "Por favor, actualiza la base de datos: "
+
+#: ext/stat/index.php:188
+msgid "Database successfully updated!!!"
+msgstr "¡Base de datos actualizada correctamente!"
+
+#: ext/stat/index.php:184
+msgid "Somthing wrong!"
+msgstr "¡Algo ha ido mal!"
+
+#: ext/quick_search/views/tabs_content.php:182
+msgid "Additional search data: which taxonomies terms titles should be included into TEXT search data file. So, your customers will be able to find with TEXT search input also products using your taxonomies terms titles! After selecting new taxonomies here do not forget press Save and then Reassemble data file!"
+msgstr "Datos de búsqueda adicionales: qué taxonomías deben incluirse en el archivo de datos de búsqueda de TEXTO. ¡Para que tus clientes puedan encontrar con la entrada de búsqueda TEXTO también productos usando los títulos de taxonomías! Después de seleccionar nuevas taxonomías aquí no olvides presionar guardar y luego volver a ensamblar archivo de datos."
+
+#: ext/quick_search/views/tabs_content.php:170
+msgid "Additional search data for text search"
+msgstr "Datos de búsqueda adicionales para búsqueda de texto"
+
+#: ext/quick_search/views/tabs_content.php:137
+msgid "Additional Quick-search Filter options"
+msgstr "Opciones adicionales de filtro de búsqueda rápida"
+
+#: ext/quick_search/views/shortcodes/woof_quick_search.php:242
+#: ext/quick_search/views/shortcodes/woof_quick_search.php:271
+#: ext/quick_search/views/shortcodes/woof_quick_search.php:318
+#: ext/quick_search/views/shortcodes/woof_quick_search.php:322
+msgid "Error! Please read documents"
+msgstr "¡Error! Por favor, lee la documentación"
+
+#: ext/quick_search/views/shortcodes/woof_quick_search.php:216
+msgid "Please read documents"
+msgstr "Por favor, lee la documentación"
+
+#: ext/meta_filter/views/tabs_content.php:155
+msgid "delete"
+msgstr "eliminar"
+
+#: ext/meta_filter/views/tabs_content.php:149
+msgid "string"
+msgstr "string"
+
+#: ext/meta_filter/views/tabs_content.php:148
+msgid "number"
+msgstr "número"
+
+#: ext/meta_filter/views/tabs_content.php:142
+msgid "Use comma as in example: 1,2,3,4,5. If you want structure like title->value use next syntax example: France^1,Germany^2,USA^3. Countries are titles here."
+msgstr "Usa comas, como en el ejemplo: 1,2,3,4,5. Si quieres una estructura como «título->valor», usa el siguiente ejemplo de sintaxis: Francia^1,Alemania^2,USA^3. Ahí, los países son títulos."
+
+#: ext/meta_filter/views/tabs_content.php:109
+msgid "enter title"
+msgstr "introducir título"
+
+#: ext/meta_filter/views/tabs_content.php:81
+msgid "Save meta fields"
+msgstr "Guardar meta campos"
+
+#: ext/meta_filter/views/tabs_content.php:41
+msgid "Get"
+msgstr "Obtener"
+
+#: ext/meta_filter/views/tabs_content.php:40
+msgid "enter product ID"
+msgstr "introduce el ID del producto"
+
+#: ext/meta_filter/views/tabs_content.php:39
+msgid "Get keys from any product by its ID"
+msgstr "Obtener las claves de cualquier producto mediante su ID"
+
+#: ext/meta_filter/views/tabs_content.php:30
+msgid "Add Custom key by hands"
+msgstr "Añadir una clave personalizada a mano"
+
+#: ext/meta_filter/views/tabs_content.php:23
+msgid "In FREE version it is possible to operate by 2 meta fields only!"
+msgstr "La versión gratuita sólo permite combinar dos meta campos."
+
+#: ext/meta_filter/views/tabs_content.php:20
+msgid "Meta Fields"
+msgstr "Campos meta"
+
+#: ext/meta_filter/index.php:136
+msgid "Meta Data"
+msgstr "Meta datos"
+
+#: ext/meta_filter/index.php:79
+msgid "Multi Drop-down"
+msgstr "Desplegable múltiple"
+
+#: ext/meta_filter/html_types/textinput/views/woof.php:17
+msgid "enter a text here ..."
+msgstr "introducir un texto aquí..."
+
+#: ext/meta_filter/html_types/textinput/views/additional_options.php:22
+msgid "EXACT"
+msgstr "EXACTO"
+
+#: ext/meta_filter/html_types/textinput/views/additional_options.php:15
+msgid "TEXT"
+msgstr "TEXTO"
+
+#: ext/meta_filter/html_types/textinput/views/additional_options.php:14
+msgid "Text search conditional"
+msgstr "Condicional de búsqueda de texto"
+
+#: ext/meta_filter/html_types/slider/views/additional_options.php:117
+msgid "Postfix"
+msgstr "Sufijo"
+
+#: ext/meta_filter/html_types/slider/views/additional_options.php:105
+msgid "Prefix"
+msgstr "Prefijo"
+
+#: ext/meta_filter/html_types/slider/views/additional_options.php:95
+msgid "Example: 1^100"
+msgstr "Ejemplo: 1^100"
+
+#: ext/meta_filter/html_types/slider/views/additional_options.php:94
+msgid "Range"
+msgstr "Rango"
+
+#: ext/meta_filter/html_types/slider/index.php:119
+msgid "from %s %s to %s %s"
+msgstr "de %s %s a %s %s"
+
+#: ext/meta_filter/html_types/mselect/views/woof.php:73
+#: ext/meta_filter/html_types/select/views/woof.php:74
+msgid "Notice! Add options in the plugin settings->Meta filter"
+msgstr "¡Aviso! Añade opciones en los ajustes del plugin -> Meta filter"
+
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:88
+#: views/plugin_options.php:2386
+msgid "AND"
+msgstr "Y"
+
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:87
+#: views/plugin_options.php:2385
+msgid "OR"
+msgstr "O"
+
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:81
+msgid "Check search logic AND/OR"
+msgstr "Comprueba la búsqueda lógica AND/OR"
+
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:80
+msgid "Search logic"
+msgstr "Lógica de búsqueda"
+
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:14
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:14
+#: ext/meta_filter/html_types/slider/views/additional_options.php:17
+#: ext/meta_filter/html_types/select/views/additional_options.php:13
+msgid "Show/Hide meta block title on the front"
+msgstr "Mostrar/ocultar el título meta del bloque en la portada"
+
+#: ext/meta_filter/html_types/checkbox/views/additional_options.php:39
+msgid "TRUE value, all another are FALSE. Example: yes or true or 1. By default if this textinput empty 1 is true and 0 is false"
+msgstr "Valor TRUE, todos los demás son FALSE. Ejemplo: sí o true o 1. Por defecto, si se introduce un 1 o se deja vacío es true y si se ingresa 0 es false"
+
+#: ext/meta_filter/html_types/checkbox/views/additional_options.php:38
+msgid "Search value"
+msgstr "Valor de búsqueda"
+
+#: ext/meta_filter/html_types/checkbox/views/additional_options.php:19
+msgid "Value exists"
+msgstr "El valor existe"
+
+#: ext/meta_filter/html_types/checkbox/views/additional_options.php:18
+msgid "Exact value"
+msgstr "Valor exacto"
+
+#: ext/meta_filter/html_types/checkbox/views/additional_options.php:12
+msgid "Search by exact value OR if meta key exists"
+msgstr "Búsqueda por valor exacto O si existe meta clave"
+
+#: ext/meta_filter/html_types/checkbox/views/additional_options.php:11
+msgid "Search option"
+msgstr "Opción de búsqueda"
+
+#: ext/meta_filter/classes/woof_type_meta_filter.php:45
+#: ext/meta_filter/index.php:204
+msgid "Meta filter"
+msgstr "Meta filter"
+
+#: ext/by_backorder/views/woof.php:6
+msgid "Exclude: On backorder"
+msgstr "Excluir: En reserva"
+
+#: ext/by_backorder/views/options.php:30
+msgid "Exclude on backorder"
+msgstr "Excluir en reserva"
+
+#: ext/by_backorder/views/options.php:20
+msgid "Show On backorder checkbox inside woof search form"
+msgstr "Mostrar casilla de verificación en reserva dentro del formulario de búsqueda woof"
+
+#: ext/sections/index.php:94 ext/by_backorder/views/options.php:18
+msgid "Exclude products on backorder"
+msgstr "Excluir productos en reserva"
+
+#: ext/by_backorder/index.php:55
+msgid "Exclude On backorder"
+msgstr "Excluir en reserva"
+
+#: ext/by_author/views/shortcodes/woof_author_filter.php:107
+msgid "Author:"
+msgstr "Autor:"
+
+#: ext/slideout/views/tabs_content.php:155 classes/widgets.php:193
+msgid "Bottom"
+msgstr "Abajo"
+
+#: classes/widgets.php:190
+msgid "Submit button position"
+msgstr "Posición del boto Enviar"
+
+#: classes/widgets.php:187
+msgid "Yes - filtering starts immediately if user changed any item in the search form. No - user can set search data and then should press Filter button"
+msgstr "Sí: el filtrado comienza de inmediato si el usuario cambia algún elemento en el formulario de búsqueda. No: el usuario puede configurar los datos de búsqueda y luego debe presionar el botón Filtro"
+
+#: ext/stat/views/tabs_content.php:276
+msgid "Check DB connection"
+msgstr "Comprobar conexión de base de datos"
+
+#: ext/stat/index.php:176
+msgid "Database successfully connected!!!"
+msgstr "¡¡¡ Base de datos conectada correctamente !!!"
+
+#: ext/stat/index.php:172
+msgid "Database not connected!    ERROR! "
+msgstr "¡Error! ¡Base de datos no conectada!"
+
+#: ext/quick_search/views/templates/list_3/output.php:33
+#: ext/quick_search/views/templates/grid_2/output.php:29
+msgid "View product"
+msgstr "Ver producto"
+
+#: ext/quick_search/views/templates/list_3/output.php:38
+#: ext/quick_search/views/templates/list_1/output.php:53
+#: ext/quick_search/views/templates/list_2/output.php:55
+#: ext/quick_search/views/templates/grid_1/output.php:38
+#: ext/quick_search/views/templates/grid_2/output.php:37
+msgid "Product not found"
+msgstr "Producto no encontrado"
+
+#: ext/quick_search/views/tabs_content.php:147
+msgid "Taxonomy conditionals"
+msgstr "Condicionales de Taxonomía"
+
+#: ext/quick_search/views/tabs_content.php:129
+msgid "Reassemble data file for quick search manually now"
+msgstr "Reensamble ahora el archivo de datos para una búsqueda rápida de forma manual"
+
+#: ext/turbo_mode/views/tabs_content.php:163
+#: ext/quick_search/views/tabs_content.php:126
+msgid "Update now!"
+msgstr "!Actualizar ahora!"
+
+#: ext/quick_search/views/tabs_content.php:122
+msgid "Reassemble data file"
+msgstr "Reensambla el archivo de datos"
+
+#: ext/quick_search/views/tabs_content.php:114
+msgid "Weekly recommended"
+msgstr "Recomendado semanalmente"
+
+#: ext/quick_search/views/tabs_content.php:53
+msgid "Products assembling period in data file for quick search."
+msgstr "Periodo de montaje de productos en archivo de datos para una búsqueda rápida."
+
+#: ext/turbo_mode/views/tabs_content.php:88
+#: ext/quick_search/views/tabs_content.php:52
+msgid "External cron is more predictable with time of execution, but additional knowledge how to set it correctly is required (<i style=\"color: orange;\">External cron will be ready in the next version of the extension</i>)"
+msgstr "El cron externo es más predecible con el tiempo de ejecución, pero se requieren conocimientos adicionales sobre cómo configurarlo correctamente (<i style=\"color: orange;\"> El cron externo estará listo en la próxima versión de la extensión </i>)"
+
+#: ext/quick_search/views/tabs_content.php:22
+msgid "How often assemble data file"
+msgstr "Con qué frecuencia ensamblar archivo de datos"
+
+#: ext/sections/views/tabs_content.php:20
+#: ext/meta_filter/views/tabs_content.php:17
+#: ext/quick_search/views/tabs_content.php:17
+#: ext/slideout/views/tabs_content.php:19
+msgid "About extension"
+msgstr "Sobre la extensión"
+
+#: ext/quick_search/views/shortcodes/woof_quick_search.php:165
+msgid "Any"
+msgstr "Cualquiera"
+
+#: ext/quick_search/index.php:632
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ext/quick_search/index.php:630
+msgid "Price"
+msgstr "Precio"
+
+#: ext/quick_search/index.php:600 ext/quick_search/index.php:601
+msgid "Title- %s "
+msgstr "Titulo- %s "
+
+#: ext/quick_search/index.php:598 ext/quick_search/index.php:599
+msgid "Price- %s "
+msgstr "Precio- %s "
+
+#: ext/quick_search/index.php:195
+msgid "Quick search"
+msgstr "Quick search"
+
+#: ext/quick_search/index.php:87
+msgid "Text search"
+msgstr "Búsqueda de texto"
+
+#: ext/by_featured/views/options.php:30
+msgid "Search by featured"
+msgstr "Búsqueda por destacado"
+
+#: ext/by_featured/views/options.php:20
+msgid "Show Featured products checkbox inside WOOF search form"
+msgstr "Mostrar la casilla de verificación de productos destacados dentro del formulario de búsqueda de WOOF"
+
+#: ext/by_featured/views/options.php:18 ext/sections/index.php:95
+msgid "Featured checkbox"
+msgstr "Casilla de verificación destacada"
+
+#: ext/by_featured/views/woof.php:6 ext/by_featured/index.php:61
+msgid "Featured product"
+msgstr "Producto destacado"
+
+#: views/plugin_options.php:2950
+msgid "As radio button"
+msgstr "Como botón de radio"
+
+#: views/plugin_options.php:2594
+msgid "Drop-down OR radio price filter ranges"
+msgstr "Filtro de rangos de precio en menú desplegable o de radio"
+
+#: views/plugin_options.php:2593
+msgid "Drop-down OR radio"
+msgstr "Menú desplegable O radio"
+
+#: views/plugin_options.php:1697
+msgid "Note for admin: Folder %s for extensions is not writable OR doesn exists! Ignore this message if you not planning using WOOF custom extensions!"
+msgstr "Nota para el administrador: ¡no tienes permisos de escritura para la carpeta %s para las extensiones o esa carpeta no existe! ¡Ignora este mensaje si no vas a utilizar las extensiones personalizadas de WOOF!"
+
+#: views/plugin_options.php:1038
+msgid "This option place WOOF JavaScript files on the site footer. Use it for page loading optimization. Be care with this option, and always after enabling of it test your site frontend!"
+msgstr "Esta opción coloca archivos Javascript WOOF en el pie de página del sitio. Utilízalo para optimizar la carga de la página. Ten cuidado con esta opción, y siempre después de activarla, comprueba la portada de tu sitio."
+
+#: views/plugin_options.php:1011
+msgid "Optimize loading of WOOF JavaScript files"
+msgstr "Optimizar la carga de archivos de JavaScript de WOOF"
+
+#: ext/meta_filter/views/tabs_content.php:32
+msgid "Add"
+msgstr "Añadir"
+
+#: index.php:1444
+msgid "Selected terms will always be displayed on the top (for parent-terms only, child will be on the top but under parent-term as it was)"
+msgstr "Los términos seleccionados siempre se mostrarán en la parte superior (solo para los términos padre, los hijos estarán en la parte superior, pero debajo del término padre al que pertenezcan)"
+
+#: index.php:1443
+msgid "Lets checked terms will be on the top"
+msgstr "Deja que los términos marcados estén en la parte superior"
+
+#: ext/meta_filter/views/tabs_content.php:150 index.php:892
+msgid "date"
+msgstr "fecha"
+
+#: ext/products_messenger/views/shortcodes/woof_products_messenger.php:62
+msgid "Subscribe on the current search request"
+msgstr "Suscribirse a la solicitud de búsqueda actual"
+
+#: ext/products_messenger/views/options.php:297
+#: ext/query_save/views/options.php:132
+msgid "Any text notes for customer under subscription form."
+msgstr "Cualquier nota de texto para el cliente bajo el formulario de suscripción."
+
+#: ext/products_messenger/views/options.php:296
+#: ext/query_save/views/options.php:131 ext/by_text/views/options.php:326
+msgid "Notes for customer"
+msgstr "Notas para el cliente"
+
+#: ext/products_messenger/views/options.php:277
+msgid "Both"
+msgstr "Ambos"
+
+#: ext/products_messenger/views/options.php:276
+msgid "By emails count"
+msgstr "Por recuento de correos electrónicos"
+
+#: ext/products_messenger/views/options.php:275
+msgid "By date"
+msgstr "Por fecha"
+
+#: ext/products_messenger/views/options.php:269
+msgid "Which limitation has priority. Event after which user stop getting the emails. Both - means that any first event of two ones, will reset user subscription."
+msgstr "Qué limitación tiene prioridad. Evento después del cual el usuario deja de recibir correos electrónicos. Ambos - significa que el primer evento en el caso de haber dos restablecerá la suscripción del usuario."
+
+#: ext/products_messenger/views/options.php:268
+msgid "Priority of limitations"
+msgstr "Prioridad de las limitaciones"
+
+#: ext/products_messenger/views/options.php:257
+msgid "Maximum number of emails per one subscribed user. -1 means no limit."
+msgstr "Número máximo de correos electrónicos por usuario suscrito. -1 significa sin límite."
+
+#: ext/products_messenger/views/options.php:256
+msgid "Emails count"
+msgstr "Conteo de correos electrónicos "
+
+#: ext/products_messenger/views/options.php:239
+#: ext/stat/views/tabs_content.php:539
+msgid "min1"
+msgstr "min1"
+
+#: ext/products_messenger/views/options.php:238
+msgid "Two months"
+msgstr "Dos meses"
+
+#: ext/products_messenger/views/options.php:237
+msgid "One month"
+msgstr "Un mes"
+
+#: ext/products_messenger/views/options.php:236
+msgid "Two weeks"
+msgstr "Dos semanas"
+
+#: ext/products_messenger/views/options.php:235
+msgid "One week"
+msgstr "Ona semana"
+
+#: ext/products_messenger/views/options.php:234
+msgid "No limit"
+msgstr "Sin límite"
+
+#: ext/products_messenger/views/options.php:228
+msgid "How long user will get emails after subscription"
+msgstr "Cuánto tiempo recibirá el usuario los correos electrónicos después de la suscripción"
+
+#: ext/products_messenger/views/options.php:227
+msgid "Subscription time"
+msgstr "Tiempo de suscripción"
+
+#: ext/products_messenger/views/options.php:216
+msgid "Text in the body of the email. You can use next variables: [DISPLAY_NAME], [USER_NICENAME], [PRODUCT_COUNT]."
+msgstr "Texto en el cuerpo del email. Puedes usar las siguientes variables: [DISPLAY_NAME], [USER_NICENAME], [PRODUCT_COUNT]."
+
+#: ext/products_messenger/views/options.php:215
+msgid "Text of the email"
+msgstr "Texto del correo electrónico"
+
+#: ext/products_messenger/views/options.php:204
+msgid "Subject of the email."
+msgstr "Asunto del correo electrónico."
+
+#: ext/products_messenger/views/options.php:203
+msgid "Subject of the email"
+msgstr "Asunto del correo electrónico "
+
+#: ext/products_messenger/views/options.php:192
+msgid "Text in header of the email."
+msgstr "Texto en el encabezado del correo electrónico."
+
+#: ext/products_messenger/views/options.php:191
+msgid "Title of the email"
+msgstr "Título del correo electrónico"
+
+#: ext/products_messenger/views/options.php:180
+#: ext/query_save/views/options.php:120
+msgid "Maximum number of subscriptions for a single registered user."
+msgstr "Número máximo de suscripciones para un solo usuario registrado."
+
+#: ext/products_messenger/views/options.php:179
+msgid "Max subscriptions per user"
+msgstr "Número máximo de suscripciones por usuario"
+
+#: ext/products_messenger/views/options.php:167
+msgid "To update the key, just delete it and save the plugin settings. Key should be min 16 symbols."
+msgstr "Para actualizar la clave, simplemente bórrala y guarda los ajustes del plugin. La clave debe tener un mínimo de 16 símbolos."
+
+#: ext/products_messenger/views/options.php:166
+msgid "For external cron use the next link"
+msgstr "Para cron externo usa el siguiente enlace"
+
+#: ext/products_messenger/views/options.php:165
+msgid "External cron key (is recommended as flexible for timetable)"
+msgstr "Clave del cron externo (se recomienda como flexible para el horario)"
+
+#: ext/products_messenger/views/options.php:146
+#: ext/turbo_mode/views/tabs_content.php:127
+#: ext/quick_search/views/tabs_content.php:91
+msgid "twicemonthly"
+msgstr "bimensual"
+
+#: ext/products_messenger/views/options.php:135
+msgid "Period of emailing to subscribed users. Set it to \"No\" if you going to use external cron."
+msgstr "Frecuencia de envío de correos electrónicos a usuarios suscritos. Establécelo en «No» si vas a usar un cron externo."
+
+#: ext/products_messenger/views/options.php:134
+msgid "WordPress cron period"
+msgstr "Período del cron de WordPress"
+
+#: ext/products_messenger/views/options.php:109
+#: ext/meta_filter/html_types/textinput/views/additional_options.php:41
+msgid "Show subscription button without search query. For example, user will be able to subscribe for new products in any products category."
+msgstr "Mostrar botón de suscripción sin consulta de búsqueda. Por ejemplo, el usuario podrá suscribirse a nuevos productos en cualquier categoría de productos."
+
+#: ext/products_messenger/views/options.php:108
+#: ext/meta_filter/html_types/textinput/views/additional_options.php:40
+msgid "Show subscription button"
+msgstr "Mostrar botón de suscripción"
+
+#: ext/products_messenger/views/options.php:96
+#: ext/query_save/views/options.php:83
+msgid "The text before the block of subscription block"
+msgstr "El texto antes del bloque de suscripción"
+
+#: ext/products_messenger/views/options.php:19
+msgid "Show product mesenger box inside woof search form"
+msgstr "Mostrar el cuadro de Products Messenger dentro del formulario de búsqueda de WOOF"
+
+#: ext/products_messenger/views/options.php:17
+#: ext/products_messenger/views/options.php:29
+#: ext/products_messenger/views/options.php:39 ext/sections/index.php:98
+#: ext/query_save/views/options.php:29
+msgid "Products Messenger"
+msgstr "Products Messenger"
+
+#: ext/products_messenger/views/item_list_subscr.php:4
+#: ext/query_save/views/item_list_query.php:4
+msgid "new"
+msgstr "nuevo"
+
+#: ext/products_messenger/views/email_template.php:82
+msgid "No products found"
+msgstr "No se encontraron productos"
+
+#: ext/products_messenger/views/email_template.php:77
+msgid "See more new products..."
+msgstr "Ver más productos nuevos..."
+
+#: ext/products_messenger/views/email_template.php:62
+#: ext/products_messenger/views/email_template.php:87
+msgid "unsubscribe"
+msgstr "darse de baja"
+
+#: ext/products_messenger/views/email_template.php:62
+#: ext/products_messenger/views/email_template.php:87
+msgid "If you want to Unsubscribe from this newsletter"
+msgstr "Si te quieres dar de baja de este boletín"
+
+#: ext/products_messenger/views/email_template.php:59
+msgid "Subscribe "
+msgstr "Suscribirse "
+
+#: ext/products_messenger/views/email_template.php:58
+msgid "Attention! This is the last email. If you want to continue get such emails -> Go by next link and subscribe again"
+msgstr "¡Atención! Este es el último correo electrónico. Si quieres continuar recibiendo estos correos -> Accede al enlace a continuación y suscríbete de nuevo"
+
+#: ext/products_messenger/views/email_template.php:54
+msgid "Terms: "
+msgstr "Términos: "
+
+#: ext/products_messenger/index.php:457 ext/query_save/index.php:243
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: ext/products_messenger/index.php:439 ext/query_save/index.php:225
+msgid "None"
+msgstr "Ninguno"
+
+#: ext/products_messenger/index.php:399 ext/query_save/index.php:170
+msgid "Price - from %s to %s"
+msgstr "Precio - desde %s a %s"
+
+#: ext/products_messenger/index.php:125
+msgid "You are unsubscribed from the future products newsletters."
+msgstr "Te has dado de baja de futuras newsletters de productos"
+
+#: ext/products_messenger/index.php:60
+msgid "Subscription"
+msgstr "Suscripción"
+
+#: ext/products_messenger/index.php:31
+msgid "Dear [DISPLAY_NAME], we increased the range of our products. Number of new products: [PRODUCT_COUNT]"
+msgstr "Estimado[DISPLAY_NAME], hemos ampliado la gama de nuestros productos. Número de nuevos productos: [PRODUCT_COUNT]"
+
+#: ext/products_messenger/index.php:30
+msgid "New products"
+msgstr "Nuevos productos"
+
+#: ext/products_messenger/index.php:29
+msgid "New Products by your request"
+msgstr "Nuevos productos a tu petición"
+
+#: ext/by_text/views/options.php:275
+msgid "Activates the ability to search by SKU from the same text-input"
+msgstr "Activa la capacidad de búsqueda por SKU desde la misma entrada de texto"
+
+#: ext/by_text/views/options.php:274
+msgid "+SKU "
+msgstr "+SKU "
+
+#: ext/by_text/views/options.php:165
+msgid "The result is only with the full coincidence of words"
+msgstr "El resultado es sólo con la plena coincidencia de palabras"
+
+#: ext/by_text/views/options.php:164
+msgid "Search by full word only"
+msgstr "Buscar sólo por palabra completa"
+
+#: ext/by_author/views/options.php:104 ext/meta_filter/index.php:65
+msgid "Checkbox"
+msgstr "Casilla de verificación"
+
+#: ext/by_author/views/options.php:97
+msgid "View of the search by author "
+msgstr "Vista de la búsqueda por autor "
+
+#: ext/by_author/views/options.php:96
+msgid "View"
+msgstr "Ver"
+
+#: ext/by_author/views/options.php:62
+msgid "First drop-down option placeholder text OR title for checkboxes"
+msgstr "Primera opción desplegable de marcador de posición de texto O título de las casillas de verificación"
+
+#: views/plugin_options.php:2732
+msgid "WooCommerce Currency Swither"
+msgstr "WooCommerce Currency Switcher"
+
+#: ext/stat/views/tabs_content.php:867
+msgid "Looks like troubles with JavaScript!"
+msgstr "¡Parece que hay problemas con JavaScript!"
+
+#: ext/stat/views/tabs_content.php:744
+msgid "Google charts library not loaded! If site is on localhost just disable statistic extension in tab Extensions!"
+msgstr "¡Biblioteca de gráficos de Google no cargada! Si el sitio está en localhost, simplemente desactiva la extensión de estadísticas en la pestaña Extensiones."
+
+#: ext/stat/index.php:345
+msgid "stat is not activated or PDO not inited"
+msgstr "stat no activado o PDO no iniciado"
+
+#: classes/widgets.php:218
+msgid "Redraws search form by AJAX, and to start filtering \"Filter\" button should be pressed. Useful when uses hierarchical drop-down for example"
+msgstr "Vuelve a dibujar el formulario de búsqueda por AJAX, y para empezar a filtrar se debe pulsar el botón \"Filtro\". Útil cuando se utiliza el menú desplegable jerárquico, por ejemplo"
+
+#: index.php:2838
+msgid "Show products filter form"
+msgstr "Mostrar formulario de filtro de productos"
+
+#: views/shortcodes/woof_price_filter_text.php:8
+msgid "max price"
+msgstr "precio máximo"
+
+#: views/shortcodes/woof_price_filter_text.php:7
+msgid "min price"
+msgstr "precio mínimo"
+
+#: views/plugin_options.php:2951
+msgid "As textinputs"
+msgstr "Como entradas de texto"
+
+#: views/plugin_options.php:2257
+msgid "leave it empty to show all terms"
+msgstr "déjalo vacío para mostrar todos los términos"
+
+#: views/plugin_options.php:2253
+msgid "Advanced info is <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "Información avanzada está <a href=\"%s\" target=\"_blank\">aquí</a>"
+
+#: views/plugin_options.php:2252
+msgid "Enter count of terms which should be visible to make all other collapsible. \"Show more\" button will be appeared. This feature is works with: radio, checkboxes, labels, colors."
+msgstr "Introduce el recuento de términos que deben ser visibles para contraer todos los demás. Aparecerá el botón «Mostrar más». Esta característica funciona con: radio, casillas de verificación, etiquetas, colores."
+
+#: views/plugin_options.php:2251
+msgid "Not toggled terms count"
+msgstr "Recuento de términos no cambiados"
+
+#: views/plugin_options.php:1975 views/plugin_options.php:2030
+msgid "Video tutorials"
+msgstr "Tutoriales en vídeo"
+
+#: views/plugin_options.php:2024
+msgid "More video"
+msgstr "Más vídeo"
+
+#: views/plugin_options.php:1998
+msgid "Styles and codes which are applied on the demo site"
+msgstr "Estilos y códigos que se aplican en el sitio de demostración"
+
+#: views/plugin_options.php:1336
+msgid "WOOF cannot create the database table! Make sure that your mysql user has the CREATE privilege! Do it manually using your host panel&phpmyadmin!"
+msgstr "¡WOOF no puede crear la tabla en la base de datos! Asegúrate de que tu usuario de mySQL tiene el privilegio de CREAR. Hazlo manualmente usando el panel de control de tu servicio de hospedaje y phpmyadmin"
+
+#: ext/stat/views/tabs_content.php:864
+msgid "finished!"
+msgstr "¡Terminado! "
+
+#: ext/stat/views/tabs_content.php:784
+msgid "drawing graphs ..."
+msgstr "dibujando gráficos ...."
+
+#: ext/stat/views/tabs_content.php:588
+msgid "How many taxonomies and terms to show on the graphs. Use no more than 10 to understand situation with statistical data"
+msgstr "¿Cuántas taxonomías y términos mostrar en los gráficos?. No uses más de 10 para entender la situación con datos estadísticos."
+
+#: ext/stat/views/tabs_content.php:571
+msgid "Max terms or taxonomies per graph"
+msgstr "Términos máximos o taxonomías por gráfico"
+
+#: ext/stat/views/tabs_content.php:561
+msgid "12 hours recommended"
+msgstr "Se recomiendan 12 horas"
+
+#: ext/products_messenger/views/options.php:147
+#: ext/stat/views/tabs_content.php:538
+#: ext/turbo_mode/views/tabs_content.php:128
+#: ext/quick_search/views/tabs_content.php:92
+msgid "monthly"
+msgstr "mensualmente"
+
+#: ext/products_messenger/views/options.php:145
+#: ext/stat/views/tabs_content.php:537
+#: ext/turbo_mode/views/tabs_content.php:126
+#: ext/quick_search/views/tabs_content.php:90
+msgid "weekly"
+msgstr "semanalmente"
+
+#: ext/products_messenger/views/options.php:144
+#: ext/stat/views/tabs_content.php:536
+#: ext/turbo_mode/views/tabs_content.php:125
+#: ext/quick_search/views/tabs_content.php:89
+msgid "daily"
+msgstr "diario"
+
+#: ext/products_messenger/views/options.php:143
+#: ext/stat/views/tabs_content.php:535
+msgid "twicedaily"
+msgstr "Dos veces al día"
+
+#: ext/products_messenger/views/options.php:142
+#: ext/stat/views/tabs_content.php:534
+msgid "hourly"
+msgstr "cada hora"
+
+#: ext/stat/views/tabs_content.php:526
+#: ext/turbo_mode/views/tabs_content.php:117
+#: ext/quick_search/views/tabs_content.php:81
+msgid "WordPress Cron period"
+msgstr "Período del cron de WordPress"
+
+#: ext/stat/views/tabs_content.php:517
+#: ext/turbo_mode/views/tabs_content.php:109
+#: ext/quick_search/views/tabs_content.php:73
+msgid "Enter any random text in the field and use it in the external cron with link like: http://mysite.com/?woof_stat_collection=__YOUR_SECRET_KEY_HERE__"
+msgstr "Introduce cualquier texto aleatorio en el campo y utilízalo en el cron externo con un enlace como: http://mysite.com/?woof_stat_collection=__YOUR_SECRET_KEY_HERE__"
+
+#: ext/stat/views/tabs_content.php:504 ext/turbo_mode/views/tabs_content.php:97
+#: ext/quick_search/views/tabs_content.php:61
+msgid "Secret key for external cron"
+msgstr "Clave secreta para un cron externo"
+
+#: ext/stat/views/tabs_content.php:495
+msgid "Use WordPress Cron if your site has a lot of traffic, and external cron if the site traffic is not big. External cron is more predictable with time of execution, but additional knowledge how to set it correctly is required (<i style=\"color: orange;\">External cron will be ready in the next version of the extension</i>)"
+msgstr "Utiliza el cron de WordPress si tu sitio tiene mucho tráfico y un cron externo en caso contrario. El cron externo es más predecible con el tiempo de ejecución, pero se requieren conocimientos adicionales sobre cómo configurarlo correctamente (<i style=\"color: orange;\"> El cron externo estará listo en la próxima versión de la extensión </i>)"
+
+#: ext/stat/views/tabs_content.php:472 ext/turbo_mode/views/tabs_content.php:66
+#: ext/quick_search/views/tabs_content.php:30
+msgid "WordPress Cron"
+msgstr "Cron de WordPress"
+
+#: ext/stat/views/tabs_content.php:464
+msgid "How to assemble statistic"
+msgstr "Como unir estadísticas"
+
+#: ext/stat/views/tabs_content.php:455
+msgid "Select cron which you want to use for the statistic assembling. Better use WordPress cron, but on the server create external cron and set there period of site visiting."
+msgstr "Selecciona el cron que quieres utilizar para la generación de estadísticas. Es mejor usar el cron de WordPress, pero en el servidor crea un cron externo y establece el período de visita del sitio."
+
+#: ext/stat/views/tabs_content.php:427
+msgid "Cache folder"
+msgstr "Carpeta de caché"
+
+#: ext/stat/views/tabs_content.php:413
+msgid "How many taxonomies per one search request will be written down into the statistical mySQL table for 1 unique user. The excess data will be truncated! Number 5 is recommended. More depth - more space in the DataBase will be occupied by the data"
+msgstr "Cuántas taxonomías por solicitud de búsqueda se anotarán en la tabla estadística de mySQL para 1 usuario único. ¡El exceso de datos se truncará! Se recomienda el número 5. A mayor profundidad los datos ocuparán más espacio en la base de datos"
+
+#: ext/stat/views/tabs_content.php:396
+msgid "Max deep of the search request"
+msgstr "Profundidad máxima de la solicitud de búsqueda"
+
+#: ext/stat/views/tabs_content.php:386
+msgid "How many search requests will be catched and written down into the statistical mySQL table per 1 unique user before cron will assemble the data"
+msgstr "Cuantas solicitudes de búsqueda se capturarán y escribirán en la tabla estadística mySQL por 1 usuario único antes de que cron recopile los datos"
+
+#: ext/stat/views/tabs_content.php:369
+msgid "Max requests per unique user"
+msgstr "Número máximo de solicitudes por usuario único"
+
+#: ext/stat/views/tabs_content.php:296
+msgid "Statistic for:"
+msgstr "Estadísticas de:"
+
+#: ext/stat/views/tabs_content.php:283
+msgid "Read about the Statistic extension here"
+msgstr "Lee acerca de la extensión de estadísticas aquí"
+
+#: ext/stat/views/tabs_content.php:281
+msgid "This data is very important for assembling statistics data, so please fill fields very responsibly. To collect statistical data uses a separate MySQL table."
+msgstr "Estos datos son muy importantes para recopilar datos estadísticos, así que, por favor, completa los campos de manera muy responsable. Para recopilar datos estadísticos se utiliza una tabla MySQL aparte."
+
+#: ext/stat/views/tabs_content.php:274
+msgid "Password"
+msgstr "Contraseña"
+
+#: ext/stat/views/tabs_content.php:271
+msgid "DB Name"
+msgstr "Nombre DB"
+
+#: ext/stat/views/tabs_content.php:268
+msgid "User"
+msgstr "Usuario"
+
+#: ext/stat/views/tabs_content.php:265
+msgid "Host"
+msgstr "Host"
+
+#: ext/stat/views/tabs_content.php:260
+msgid "Statistic -> tab Options -> \"Stat server options\" inputs should be filled in by right data, another way not possible to collect statistical data!"
+msgstr "Estadística -> pestaña Opciones -> Las entradas de «Opciones de servidor de estadísticas» deben completarse con datos correctos. ¡De lo contrario no será posible recopilar datos estadísticos!"
+
+#: ext/stat/views/tabs_content.php:244
+msgid "Server options for statistic stock"
+msgstr "Opciones de servidor para el inventario de estadísticas"
+
+#: ext/stat/views/tabs_content.php:236
+msgid "After installing all settings for statistics assembling - enable it here"
+msgstr "Después de instalar todos los ajustes para el ensamblaje de estadísticas, actívalo aquí"
+
+#: ext/stat/views/tabs_content.php:220
+msgid "Statistic extension is activated but statistics collection is not enabled. Enable it on: tab Statistic -> tab Options -> \"Statistics collection enabled\""
+msgstr "La extensión de estadísticas está activada pero la recopilación de estadísticas no. Actívala en: pestaña Estadísticas -> pestaña Opciones -> «Recopilación de estadísticas habilitada»"
+
+#: ext/stat/views/tabs_content.php:201
+msgid "Statistics collection:"
+msgstr "Recopilación de estadísticas:"
+
+#: ext/stat/views/tabs_content.php:31
+msgid "Notice:"
+msgstr "Aviso:"
+
+#: ext/stat/views/tabs_content.php:189
+msgid "xxx"
+msgstr "xxx"
+
+#: ext/stat/views/tabs_content.php:178
+msgid "Print Graphs"
+msgstr "Imprimir gráficos"
+
+#: ext/stat/views/tabs_content.php:169
+msgid "Graphics"
+msgstr "Gráficos"
+
+#: ext/stat/views/tabs_content.php:160 ext/step_filer/views/tabs_content.php:40
+msgid "Select taxonomy, taxonomies combinations OR leave this field empty to see general data for all the most requested taxonomies"
+msgstr "Selecciona la taxonomía, combinaciones de taxonomías o deja este campo vacío para ver los datos generales de todas las taxonomías más solicitadas"
+
+#: ext/stat/views/tabs_content.php:154
+msgid "Calculate Statistics"
+msgstr "Calcular estadísticas"
+
+#: ext/stat/views/tabs_content.php:148
+msgid "Select taxonomies in tab Options and press \"Save changes\""
+msgstr "Selecciona las taxonomías en la pestaña de «Opciones» y pulsa «Guardar cambios»"
+
+#: ext/stat/views/tabs_content.php:77 ext/step_filer/views/tabs_content.php:32
+msgid "Statistical parameters:"
+msgstr "Parámetros estadísticos:"
+
+#: ext/stat/views/tabs_content.php:66
+msgid "Select the time period for which you want to see statistical data"
+msgstr "Elige el periodo para que quieres ver los datos estadísticos "
+
+#: ext/stat/views/tabs_content.php:59
+msgid "To"
+msgstr "A"
+
+#: ext/stat/views/tabs_content.php:56
+msgid "From"
+msgstr "Desde"
+
+#: ext/stat/views/tabs_content.php:47
+msgid "(Statistic collected from: %s %d)"
+msgstr "(Estadística recopilada de:%s %d)"
+
+#: ext/stat/views/tabs_content.php:45
+msgid "Select period:"
+msgstr "Seleccionar periodo:"
+
+#: ext/stat/index.php:1491
+msgid "Its not possible to create file: %s"
+msgstr "No es posible crear un archivo: %s"
+
+#: ext/stat/index.php:1471 ext/stat/index.php:1480
+msgid "Its not possible to create folder: %s"
+msgstr "No es posible crear una carpeta: %s"
+
+#: ext/stat/index.php:287
+msgid "Wrong data for \"<b>Server options for statistic stock</b>\" options"
+msgstr "Datos incorrectos para las opciones de \"<b>Opciones de servidor para inventario de estadísticas</b>\""
+
+#: ext/stat/index.php:259
+msgid "Very recommend for the statistic not less than %s of the memory to avoid malfunctionality. Now is on the site %s"
+msgstr "Muy recomendable para la estadística no menos de %s de la memoria para evitar un mal funcionamiento. Ahora está en el sitio %s"
+
+#: ext/stat/index.php:246
+msgid "PHP extension PDO_MYSQL is not enabled on your server, not possible to collect statistic data! Contact your hosting support to about enabling PDO_MYSQL."
+msgstr "La extensión de PHP PDO_MYSQL no está activada en tu servidor, ¡no es posible recopilar datos estadísticos! Contacta con el soporte de tu proveedor de alojamiento para habilitar PDO_MYSQL."
+
+#: ext/stat/index.php:226
+msgid "No data for the selected time period!"
+msgstr "¡No se han encontrado datos en el período de tiempo seleccionado!"
+
+#: ext/stat/index.php:225
+msgid "done!"
+msgstr "¡Hecho!"
+
+#: ext/stat/index.php:224
+msgid "getting the data from the table"
+msgstr "Obteniendo los datos de la tabla"
+
+#: ext/stat/index.php:223
+msgid "operative tables are prepared"
+msgstr "las tablas operativas están preparadas"
+
+#: ext/stat/index.php:222
+msgid "getting of operative tables ..."
+msgstr "obteniendo las tablas operativas..."
+
+#: ext/stat/index.php:221
+msgid "Statistic calculation ..."
+msgstr "Cálculo estadístico ...."
+
+#: ext/stat/index.php:220
+msgid "Select date range for statistic!"
+msgstr "¡Elige el rango de fechas para la estadística!"
+
+#: ext/stat/index.php:219
+msgid "leave it empty to see all terms"
+msgstr "dejar vacío para ver todos los términos"
+
+#: ext/stat/views/tabs_content.php:13 ext/stat/index.php:198
+msgid "Statistic"
+msgstr "Estadísticas"
+
+#: ext/select_radio_check/index.php:58
+msgid "enter value in px"
+msgstr "introducir valor en px"
+
+#: ext/select_radio_check/index.php:56
+msgid "Height of the drop-down of the opened active panel."
+msgstr "Altura del desplegable del panel activo abierto."
+
+#: ext/select_radio_check/index.php:55
+msgid "Height"
+msgstr "Altura"
+
+#: ext/select_radio_check/index.php:51
+msgid "Radio"
+msgstr "Radio"
+
+#: ext/select_radio_check/index.php:48
+msgid "How to display this filter-element on the site frontend"
+msgstr "Cómo mostrar este elemento de filtro en la interfaz del sitio"
+
+#: ext/select_radio_check/index.php:47
+msgid "Type"
+msgstr "Tipo"
+
+#: ext/by_text/views/options.php:255
+msgid "the same window"
+msgstr "la misma ventana"
+
+#: ext/by_text/views/options.php:254
+msgid "new window"
+msgstr "nueva ventana"
+
+#: ext/by_text/views/options.php:248
+msgid "In the same window (_self) or in the new one (_blank)"
+msgstr "En la misma ventana (_self) o en la nueva (_blank)"
+
+#: ext/by_text/views/options.php:247
+msgid "How to open links with posts in suggestion"
+msgstr "Cómo abrir enlaces con entradas en sugerencia"
+
+#: ext/by_rating/views/woof.php:26
+msgid "average rating between 1 to 2-"
+msgstr "valoración promedia entre 1 y 2-"
+
+#: ext/by_rating/views/woof.php:25
+msgid "average rating between 2 to 3-"
+msgstr "valoración promedia entre 2 y 3-"
+
+#: ext/by_rating/views/woof.php:24
+msgid "average rating between 3 to 4-"
+msgstr "valoración promedia entre 3 y 4-"
+
+#: ext/by_rating/views/woof.php:23
+msgid "average rating between 4 to 5"
+msgstr "valoración promedia entre 4 y 5"
+
+#: ext/by_rating/views/woof.php:22 ext/by_rating/views/woof.php:30
+msgid "Filter by rating"
+msgstr "Filtrar por clasificación"
+
+#: ext/by_rating/views/options.php:19
+msgid "Drop-down to filter ptoducts by rating"
+msgstr "Desplegable para filtrar los productos por calificación"
+
+#: ext/sections/index.php:90 ext/by_rating/views/options.php:18
+msgid "By rating drop-down"
+msgstr "Desplegable por puntuación"
+
+#: ext/by_rating/index.php:57
+msgid "By rating"
+msgstr "By rating"
+
+#. Description of the plugin
+msgid "WOOF - WooCommerce Products Filter. Flexible, easy and robust products filter for WooCommerce store site!"
+msgstr "WOOF - WooCommerce Products Filter. Filtrado de productos flexible, fácil y robusto para tiendas con WooCommerce."
+
+#: index.php:1405
+msgid "Select \"Yes\" if you want to TRY make filtering in your shop by AJAX. Not compatible for 100% of all wp themes, so test it well if you are going to buy premium version of the plugin because incompatibility is not fixable!"
+msgstr "Selecciona «Sí» si quieres INTENTAR realizar el filtrado en tu tienda utilizando AJAX. No es compatible con el 100% de los temas de WordPress, así que pruébalo bien antes de comprar la versión premium del plugin porque la incompatibilidad no se puede corregir."
+
+#: classes/widgets.php:155
+msgid "User on the site front will have to press button like \"Show products filter form\" to load search form by ajax and start filtering. Good feature when search form is quite big and page loading takes more time because of it!"
+msgstr "El usuario en el sitio tendrá que presionar el botón \"Mostrar formulario de filtro de productos\" para cargar el formulario de búsqueda por ajax y comenzar a filtrar. ¡Una buena característica cuando el formulario de búsqueda es bastante grande y la carga de la página requiere más tiempo!"
+
+#: classes/widgets.php:143
+msgid "Hide search form by default and show one button instead"
+msgstr "Ocultar el formulario de búsqueda por defecto y mostrar un botón en su lugar"
+
+#: classes/helper.php:819
+msgid "Show less"
+msgstr "Mostrar menos"
+
+#: classes/helper.php:818
+msgid "Show more"
+msgstr "Mostrar más"
+
+#: ext/by_text/views/options.php:221
+msgid "Direct links to posts in autocomplete suggestion"
+msgstr "Enlaces directos a las entradas en la sugerencia de autocompletar"
+
+#: ext/by_text/views/options.php:220
+msgid "Links to posts in suggestion"
+msgstr "Enlaces a entradas en sugerencia"
+
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:47
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:47
+#: ext/meta_filter/html_types/slider/views/additional_options.php:50
+#: ext/meta_filter/html_types/select/views/additional_options.php:47
+#: views/plugin_options.php:2219 views/plugin_options.php:2566
+msgid "Yes, show as opened"
+msgstr "Sí, mostrar abierto"
+
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:46
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:46
+#: ext/meta_filter/html_types/slider/views/additional_options.php:49
+#: ext/meta_filter/html_types/select/views/additional_options.php:46
+#: views/plugin_options.php:2218 views/plugin_options.php:2565
+msgid "Yes, show as closed"
+msgstr "Sí, mostrar cerrado"
+
+#: views/plugin_options.php:2008
+msgid "Quick video tutorial"
+msgstr "Tutorial rápido en vídeo"
+
+#: views/plugin_options.php:875
+msgid "Use it when you are need additional action after AJAX redraw your products in shop page or in page with shortcode! For use when you need additional functionality after AJAX redraw of your products on the shop page or on pages with shortcodes."
+msgstr "¡Utilízalo cuando necesites una acción adicional después de que AJAX vuelva a recargar tus productos en la página de la tienda o en la página con un shortcode! Para usarlo cuando necesitas funcionalidad adicional después de recargar mediante AJAX los productos en la página de la tienda o en páginas con shortcodes."
+
+#: index.php:898
+msgid "price low to high"
+msgstr "precio bajo a alto"
+
+#: index.php:899
+msgid "price high to low"
+msgstr "precio alto a bajo"
+
+#: index.php:897
+msgid "rating"
+msgstr "clasificación"
+
+#: index.php:896
+msgid "popularity"
+msgstr "popularidad"
+
+#: index.php:895
+msgid "menu order"
+msgstr "orden del menú"
+
+#: views/woof.php:503
+msgid "show blocks helper"
+msgstr "Mostrar el ayudante de bloques"
+
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:39
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:39
+#: ext/meta_filter/html_types/slider/views/additional_options.php:42
+#: ext/meta_filter/html_types/select/views/additional_options.php:39
+#: views/plugin_options.php:2210 views/plugin_options.php:2558
+msgid "Show toggle button near the title on the front above the block of html-items"
+msgstr "Mostrar el botón de alternar cerca del título en la portada encima del bloque de elementos HTML"
+
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:38
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:38
+#: ext/meta_filter/html_types/slider/views/additional_options.php:41
+#: ext/meta_filter/html_types/select/views/additional_options.php:38
+#: views/plugin_options.php:2209 views/plugin_options.php:2557
+msgid "Show toggle button"
+msgstr "Mostrar botón de alternar"
+
+#: views/plugin_options.php:1907 views/plugin_options.php:1908
+msgid "%s"
+msgstr "%s"
+
+#: views/plugin_options.php:1790
+msgid "Default extensions"
+msgstr "Extensiones por defecto"
+
+#: views/plugin_options.php:1774
+msgid "Looks like its not the WOOF extension here %s!"
+msgstr "Parece que la extensión de WOOF no esta aquí %s"
+
+#: views/plugin_options.php:1746 views/plugin_options.php:2498
+msgid "remove extension"
+msgstr "quitar la extensión"
+
+#: views/plugin_options.php:1701
+msgid "<b>Note for admin</b>: Create folder for custom extensions in wp-content folder: tab Advanced -> Options -> Custom extensions folder"
+msgstr "<b> Nota para el administrador </b>: Crea una carpeta para las extensiones personalizadas en la carpeta wp-content: pestaña Avanzado -> Opciones -> Carpeta de extensiones personalizadas"
+
+#: views/plugin_options.php:1679
+msgid "(zip)"
+msgstr "(zip)"
+
+#: views/plugin_options.php:1678
+msgid "Choose an extension zip"
+msgstr "Elegir una extensión zip"
+
+#: views/plugin_options.php:1650
+msgid "Custom extensions installation"
+msgstr "Instalación de extensiones personalizadas"
+
+#: views/plugin_options.php:1620
+msgid "Ext-Applications options"
+msgstr "Opciones de aplicaciones externas"
+
+#: views/plugin_options.php:1463
+msgid "Show blocks helper button"
+msgstr "Mostrar botón de asistente de bloques"
+
+#: views/plugin_options.php:1003
+msgid "Products per page when searching is going only. Set here -1 to prevent pagination managing from here!"
+msgstr "Productos por página solo cuando la búsqueda está en marcha. ¡Pon aquí -1 para evitar la paginación desde aquí!"
+
+#: views/plugin_options.php:990
+msgid "Products per page"
+msgstr "Productos por página"
+
+#: views/plugin_options.php:922
+msgid "This option enables or disables initialization of the plugin on all pages of the site except links and link-masks in the textarea. One row - one link (or link-mask)! Example of link: http://site.com/ajaxed-search-7. Example of link-mask: product-category . Leave it empty to allow the plugin initialization on all pages of the site!"
+msgstr "Esta opción activa o desactiva la inicialización del plugin en todas las páginas del sitio, excepto los enlaces y las máscaras de enlaces en el área de texto. Una fila - un enlace (o máscara de enlace). Ejemplo de enlace: http://site.com/ajaxed-search-7. Ejemplo de máscara de enlace: categoría de producto ¡Déjalo vacío para permitir la inicialización del plugin en todas las páginas del sitio!"
+
+#: views/plugin_options.php:880
+msgid "Init plugin on the next site pages only "
+msgstr "Iniciar el plugin solo en las siguientes páginas del sitio"
+
+#: views/plugin_options.php:804
+msgid "Any image for closed html-items block 20x20"
+msgstr "Cualquier imagen para bloques de 20x20 de elementos html cerrados"
+
+#: views/plugin_options.php:791
+msgid "Image for block toggle [<i>closed</i>]"
+msgstr "Imagen para alternar los bloques [<i>cerrado</i>]"
+
+#: views/plugin_options.php:786
+msgid "Any image for opened html-items block 20x20"
+msgstr "Cualquier imagen para bloques de 20x20 de elementos html abiertos"
+
+#: views/plugin_options.php:773
+msgid "Image for block toggle [<i>opened</i>]"
+msgstr "Imagen para alternar los bloques [<i>abierto</i>]"
+
+#: views/plugin_options.php:765
+msgid "Toggle text for closed html-items block. Example: open. By default applied sign plus \"+\""
+msgstr "Alternar texto para bloques de elementos html cerrados. Por ejemplo: abierto. Por defecto se aplica el signo más «+»"
+
+#: views/plugin_options.php:753
+msgid "Text for block toggle [<i>closed</i>]"
+msgstr "Texto para alternar los bloques [<i>cerrado</i>]"
+
+#: views/plugin_options.php:749
+msgid "Toggle text for opened html-items block. Example: close. By default applied sign minus \"-\""
+msgstr "Alternar texto para bloques de elementos html abiertos. Por ejemplo: cerrado. Por defecto se aplica el signo más «-»"
+
+#: views/plugin_options.php:737
+msgid "Text for block toggle [<i>opened</i>]"
+msgstr "Texto para alternar los bloques [<i>abierto</i>]"
+
+#: views/plugin_options.php:730
+msgid "Type of the toogle on the front for block of html-items as: radio, checkbox .... Works only if the block title is not hidden!"
+msgstr "Tipo de conmutador en la web para el bloque de elementos html como: casilla de selección única, casilla de selección múltiple .... ¡Sólo funciona si el título del bloque no está oculto!"
+
+#: views/plugin_options.php:709
+msgid "Images"
+msgstr "Imágenes"
+
+#: views/plugin_options.php:708
+msgid "Text"
+msgstr "Text"
+
+#: views/plugin_options.php:700
+msgid "Toggle block type"
+msgstr "Cambiar tipo de bloque"
+
+#: views/plugin_options.php:489
+msgid "Ion-Range slider js lib skin for range-sliders of the plugin"
+msgstr "Estilo de la biblioteca JS del carrusel Ion-Range para los carruseles de rango del plugin"
+
+#: views/plugin_options.php:456
+msgid "Range-slider skin"
+msgstr "Estilo del carrusel de rango"
+
+#: index.php:793
+msgid "WOOF settings saving ..."
+msgstr "Guardando ajustes WOOF ..."
+
+#: ext/slider/index.php:32 ext/meta_filter/index.php:51
+msgid "Slider"
+msgstr "Carrusel"
+
+#: ext/image/index.php:122
+msgid "This option should be set"
+msgstr "Esta opción debe ser configurada"
+
+#: ext/image/index.php:121
+msgid "Image styles"
+msgstr "Estilos de imagen"
+
+#: ext/image/index.php:113
+msgid "Image settings for term %s"
+msgstr "Ajustes de la imagen para el termino %s"
+
+#: ext/image/index.php:109
+msgid "set link to the image"
+msgstr "establecer enlace a la imagen"
+
+#: ext/image/index.php:86
+msgid "toggle image terms"
+msgstr "cambiar los términos de la imagen"
+
+#: ext/by_text/views/options.php:193
+msgid "Autocomplete relevant variants in by_text textinput"
+msgstr "Autocompletar variantes relevantes en by_text textinput"
+
+#: ext/by_text/views/options.php:192
+msgid "Autocomplete"
+msgstr "Autocompletar"
+
+#: ext/by_text/views/options.php:144
+msgid "Search by title OR content OR excerpt"
+msgstr "Buscar por título, por contenido o por extracto"
+
+#: ext/by_text/index.php:500
+msgid "Products not found!"
+msgstr "¡Productos no encontrados!"
+
+#: ext/by_backorder/views/options.php:55 ext/by_instock/views/options.php:57
+msgid "Search in products and their variations"
+msgstr "Buscar en productos y sus variaciones"
+
+#: ext/by_backorder/views/options.php:54 ext/by_instock/views/options.php:56
+msgid "Simple products only"
+msgstr "Sólo productos simples"
+
+#: ext/by_backorder/views/options.php:48 ext/by_instock/views/options.php:50
+msgid "Will the plugin look in each variable of variable products. Request for variables products creates more mysql queries in database ..."
+msgstr "El plugin buscará en cada variable de productos variables. La solicitud de variables de productos crea más consultas mysql en la base de datos..."
+
+#: ext/by_backorder/views/options.php:47 ext/by_instock/views/options.php:49
+msgid "Search in variable produts"
+msgstr "Buscar en productos variables"
+
+#: ext/by_instock/views/options.php:30
+msgid "Search by InStock"
+msgstr "Search by InStock"
+
+#: ext/by_author/views/options.php:83
+msgid "all"
+msgstr "todo"
+
+#: ext/by_author/views/options.php:76
+msgid "You can define whith which role show users in the drop down"
+msgstr "Puedes definir el perfil de los usuarios que se muestran en el desplegable"
+
+#: ext/by_author/views/options.php:75
+msgid "Role"
+msgstr "Perfil"
+
+#: classes/helper.php:801 classes/helper.php:805 classes/helper.php:806
+msgid "toggle"
+msgstr "alternar"
+
+#: views/shortcodes/woof_price_filter_select.php:60
+#: views/shortcodes/woof_price_filter_radio.php:24
+msgid "Not possible. Enter options ranges in the plugin settings -> tab Structure -> Search by price -> additional options"
+msgstr "No es posible. Ingresa rangos de opciones en los ajustes del plugin -> pestaña Estructura -> Buscar por precio -> opciones adicionales"
+
+#: views/shortcodes/woof_price_filter_select.php:8
+msgid "filter by price"
+msgstr "filtrar por precio"
+
+#: views/plugin_options.php:2952
+msgid "As ion range-slider"
+msgstr "Como carrusel de ion"
+
+#: views/plugin_options.php:2949
+msgid "As drop-down"
+msgstr "Como desplegable"
+
+#: views/plugin_options.php:2948
+msgid "As woo range-slider"
+msgstr "Como control deslizante de rango woo"
+
+#: ext/sections/index.php:89 views/plugin_options.php:2941
+#: views/plugin_options.php:2957
+msgid "Search by Price"
+msgstr "Buscar por precio"
+
+#: views/plugin_options.php:2624
+msgid "predifined step"
+msgstr "paso predefinido"
+
+#: ext/meta_filter/html_types/slider/views/additional_options.php:84
+#: views/plugin_options.php:2623
+msgid "Step"
+msgstr "Paso"
+
+#: views/plugin_options.php:2622
+msgid "Ion Range slider"
+msgstr "Carrusel Ion-Range"
+
+#: views/plugin_options.php:2595
+msgid "Ranges for price filter."
+msgstr "Rangos de filtro de precios."
+
+#: ext/by_author/views/options.php:103 ext/meta_filter/index.php:72
+msgid "Drop-down"
+msgstr "Desplegable"
+
+#: views/plugin_options.php:2518
+msgid "Show button for woocommerce filter by price inside woof search form when it is dispayed as woo range-slider"
+msgstr "Mostrar botón para filtro woocommerce por precio dentro del formulario de búsqueda woof cuando se muestra como control deslizante de rango woo"
+
+#: views/plugin_options.php:2517
+msgid "Show button"
+msgstr "Mostrar botón"
+
+#: views/plugin_options.php:2467
+msgid "select image"
+msgstr "seleccionar imagen"
+
+#: views/plugin_options.php:2287
+msgid "Container max-height (px). 0 means no max-height."
+msgstr "Altura máxima del contenedor (px). 0 significa que no hay altura máxima."
+
+#: views/plugin_options.php:2140
+msgid "Duplicate, clone, backup, move and transfer an entire site from one location to another."
+msgstr "Duplica, clona, haz una copia de seguridad, mueve y transfiere la web entera de un lugar a otro."
+
+#: views/plugin_options.php:2149
+msgid "Adv"
+msgstr "Adv"
+
+#: views/plugin_options.php:1771 views/plugin_options.php:1843
+msgid "You should write extension info in info.dat file!"
+msgstr "¡Deberías escribir la información de la extensión en el archivo info.dat!"
+
+#: views/plugin_options.php:1740 views/plugin_options.php:1814
+msgid "<i>ver.:</i> %s"
+msgstr "<i>ver.:</i> %s"
+
+#: ext/stat/views/tabs_content.php:209 views/plugin_options.php:1635
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: ext/stat/views/tabs_content.php:210 views/plugin_options.php:1634
+msgid "Enabled"
+msgstr "Activado"
+
+#: views/plugin_options.php:1633
+msgid "All"
+msgstr "Todos"
+
+#: views/plugin_options.php:1511
+msgid "Custom extensions folder path relative to: %s"
+msgstr "Ruta de la carpeta de extensiones personalizadas relativa a: %s"
+
+#: views/plugin_options.php:1498
+msgid "Custom extensions folder"
+msgstr "Carpeta de extensiones personalizadas"
+
+#: views/plugin_options.php:1490
+msgid "Show helper button for shortcode [woof] on the front when 'Set filter automatically' is Yes"
+msgstr "Mostrar el botón de ayuda para el shortcode [woof] en la parte portada cuando «Establecer filtro automáticamente» sea Sí"
+
+#: views/plugin_options.php:1413
+msgid "Useful thing when you already set your site IN THE PRODUCTION MODE - its getting terms for filter faster without big MySQL queries! If you actively adds new terms every day or week you can set cron period for cleaning. Another way set: '<b>not clean cache automatically</b>'!"
+msgstr "¡Es algo útil cuando ya has configurado tu sitio en MODO DE PRODUCCIÓN - obteniendo términos para un filtrado más rápido sin grandes consultas MySQL! Si añades activamente nuevos términos cada día o semana puedes configurar el periodo del cron para que haya una limpieza. ¡En caso contrario configúralo asís: '<b>no vaciar caché automáticamente</b>'!"
+
+#: views/plugin_options.php:1381
+msgid "clear terms cache"
+msgstr "limpiar la caché de términos"
+
+#: views/plugin_options.php:1354
+msgid "Cache terms"
+msgstr "Caché de términos"
+
+#: views/plugin_options.php:1246
+msgid "Sometimes code '<code>wp_query->is_post_type_archive = true</code>' does not necessary. Try to disable this and try woof-search on your site. If all is ok - leave its disabled. Disabled code by this option you can find in index.php by mark disable_swoof_influence."
+msgstr "A veces, el código '<code> wp_query-> is_post_type_archive = true </code>' no es necesario. Intenta desactivarlo y prueba woof-search en tu sitio. Si todo está bien, déjalo desactivado. El código desactivado por esta opción se puede encontrar en index.php marcando disable_swoof_influence."
+
+#: views/plugin_options.php:1219
+msgid "Disable swoof influence"
+msgstr "Desactivar influencia swoof"
+
+#: views/plugin_options.php:1208
+msgid "Listen catalog visibility - options in each product backend page in 'Publish' sidebar widget."
+msgstr "Presta atención a las opciones de visibilidad del catálogo en cada producto de la página de administración, en el widget «Publicado» de la barra lateral"
+
+#: views/plugin_options.php:1180
+msgid "Listen catalog visibility"
+msgstr "Prestar atención a la visibilidad del catálogo"
+
+#: views/plugin_options.php:845
+msgid "Code"
+msgstr "Código"
+
+#: views/plugin_options.php:827
+msgid "For developers who want to rewrite front css of the plugin front side. You are need to know CSS for this!"
+msgstr "Para desarrolladores que quieran reescribir el CSS de la página de inicio del plugin. ¡Necesitas conocer CSS para hacer esto!"
+
+#: views/plugin_options.php:820
+msgid "Custom front css styles file link"
+msgstr "Enlace de archivo de estilos CSS de inicio personalizado"
+
+#: views/plugin_options.php:683
+msgid "Image for subcategories [<i>close</i>]"
+msgstr "Imagen para las subcategorías [<i>cerrar</i>]"
+
+#: views/plugin_options.php:671
+msgid "Image for subcategories [<i>open</i>]"
+msgstr "Imagen para las subcategorías [<i>abrir</i>]"
+
+#: views/plugin_options.php:271
+msgid "Loading spokes - SVG"
+msgstr "Cargando rayos - SVG"
+
+#: views/plugin_options.php:270
+msgid "Loading spinning bubbles - SVG"
+msgstr "Cargando burbujas giratorias - SVG"
+
+#: views/plugin_options.php:269
+msgid "Loading spin - SVG"
+msgstr "Cargando giro - SVG"
+
+#: views/plugin_options.php:268
+msgid "Loading cyclone - SVG"
+msgstr "Cargando ciclón - SVG"
+
+#: views/plugin_options.php:267
+msgid "Loading cubes - SVG"
+msgstr "Cargando cubos - SVG"
+
+#: views/plugin_options.php:266
+msgid "Loading bubbles - SVG"
+msgstr "Cargando burbujas - SVG"
+
+#: views/plugin_options.php:265
+msgid "Loading bars - SVG"
+msgstr "Cargando barras - SVG"
+
+#: views/plugin_options.php:264
+msgid "Loading balls - SVG"
+msgstr "Cargando bolas - SVG"
+
+#: views/plugin_options.php:263
+msgid "Plainoverlay - CSS"
+msgstr "Superposición plana - CSS"
+
+#: views/plugin_options.php:177
+msgid "Reset items order"
+msgstr "Restablecer orden de los artículos"
+
+#: views/plugin_options.php:129 views/plugin_options.php:1615
+msgid "Extensions"
+msgstr "Extensiones"
+
+#: views/plugin_options.php:99
+msgid "Design"
+msgstr "Diseño"
+
+#: views/plugin_options.php:85
+msgid "Structure"
+msgstr "Estructura"
+
+#: views/plugin_options.php:32
+msgid "Your settings have been saved."
+msgstr "Sus ajustes han sido guardados."
+
+#: ext/select_hierarchy/index.php:31
+msgid "Hierarchy drop-down"
+msgstr "Desplegable de jerarquía"
+
+#: ext/products_messenger/views/options.php:95 ext/label/index.php:34
+#: ext/query_save/views/options.php:82
+msgid "Label"
+msgstr "Etiqueta"
+
+#: ext/by_text/views/options.php:143
+msgid "Search by content OR excerpt"
+msgstr "Buscar por contenido OR extracto"
+
+#: ext/by_text/views/options.php:142
+msgid "Search by excerpt"
+msgstr "Buscar por extracto"
+
+#: ext/by_text/views/options.php:133
+msgid "behavior of the text searching"
+msgstr "comportamiento de la búsqueda de texto"
+
+#: ext/by_text/views/options.php:132
+msgid "Behavior"
+msgstr "Comportamiento"
+
+#: ext/meta_filter/index.php:58 ext/by_text/views/options.php:29
+msgid "Search by text"
+msgstr "Buscar usando texto "
+
+#: ext/sections/index.php:92 ext/by_text/views/options.php:18
+msgid "Search by Text"
+msgstr "Buscar por texto"
+
+#: ext/by_text/index.php:87
+msgid "By text"
+msgstr "Por texto"
+
+#: ext/image/index.php:110 ext/image/index.php:183
+#: ext/by_text/views/options.php:345 ext/slideout/views/tabs_content.php:99
+#: views/plugin_options.php:318 views/plugin_options.php:618
+#: views/plugin_options.php:644 views/plugin_options.php:676
+#: views/plugin_options.php:688 views/plugin_options.php:783
+#: views/plugin_options.php:801
+msgid "Select Image"
+msgstr "Selecciona una imagen"
+
+#: ext/image/index.php:63 ext/by_text/views/options.php:338
+#: ext/slideout/index.php:46
+msgid "Image"
+msgstr "Imagen"
+
+#: ext/meta_filter/html_types/textinput/views/additional_options.php:21
+msgid "LIKE"
+msgstr "ME GUSTA"
+
+#: ext/by_author/views/options.php:61 ext/by_text/views/options.php:117
+msgid "Placeholder text"
+msgstr "Texto de marcador de posición"
+
+#: ext/by_text/views/options.php:104 ext/by_text/views/options.php:118
+msgid "Leave it empty if you not need this"
+msgstr "Dejar vacío si no necesitas esto"
+
+#: ext/by_text/views/options.php:103 views/plugin_options.php:2545
+msgid "Title text"
+msgstr "Texto del título"
+
+#: ext/sections/index.php:91
+msgid "Search by SKU"
+msgstr "Buscar por SKU"
+
+#: ext/by_instock/views/options.php:20
+msgid "Show In stock only checkbox inside woof search form"
+msgstr "Mostrar la casilla de verificación de InStock solo dentro del formulario de búsqueda de WOOF"
+
+#: ext/sections/index.php:96 ext/by_instock/views/options.php:18
+msgid "In stock checkbox"
+msgstr "Casilla de verificación hay existencias"
+
+#: ext/by_instock/views/woof.php:6 ext/by_instock/index.php:57
+msgid "In stock"
+msgstr "En stock"
+
+#: ext/by_onsales/views/options.php:19
+msgid "Show On sale only checkbox inside woof search form"
+msgstr "Mostrar casilla de verificación «Solo rebajados» dentro del formulario de búsqueda de woof"
+
+#: ext/by_onsales/views/options.php:18 ext/sections/index.php:97
+msgid "On sale checkbox"
+msgstr "Casilla de verificación en oferta"
+
+#: ext/by_onsales/views/woof.php:6 ext/by_onsales/index.php:59
+msgid "On sale"
+msgstr "En oferta"
+
+#: ext/by_author/views/shortcodes/woof_author_filter.php:42
+msgid "Select a product author"
+msgstr "Seleccionar autor del producto"
+
+#: ext/by_author/views/options.php:23
+msgid "Show Search by author drop-down inside woof search form"
+msgstr "Mostrar búsqueda por autor desplegable dentro del formulario de búsqueda woof"
+
+#: ext/sections/index.php:93 ext/by_author/views/options.php:21
+#: ext/by_author/views/options.php:32
+msgid "Search by Author"
+msgstr "Buscar por autor"
+
+#: ext/by_author/index.php:67
+msgid "By author"
+msgstr "Por autor"
+
+#: classes/widgets.php:206
+msgid "Form AJAX redrawing"
+msgstr "Repintando el formulario AJAX"
+
+#: classes/widgets.php:140
+msgid "Redirect to any page - use it by your own logic. Leave it empty for default behavior."
+msgstr "Redirigir a cualquier página - úsalo según tu propia lógica. Déjalo vacío para un comportamiento por defecto."
+
+#: classes/widgets.php:138
+msgid "Redirect to"
+msgstr "Redirigir a"
+
+#: classes/widgets.php:134
+msgid "Additional text before"
+msgstr "Texto adicional antes"
+
+#: classes/helper.php:738
+msgid "Cheatin&#8217; huh?"
+msgstr "Haciendo trampa&#8217; ¿eh?"
+
+#: classes/helper.php:734
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Ha ocurrido un error. Por favor, actualice la página y vuelva a intentarlo."
+
+#. Author URI of the plugin
+msgid "https://pluginus.net/"
+msgstr "https://pluginus.net/"
+
+#. Author of the plugin
+msgid "realmag777"
+msgstr "realmag777"
+
+#: ext/step_filer/views/shortcode/step_filter.php:15
+#: ext/quick_search/index.php:98 views/woof.php:33
+msgid "Reset"
+msgstr "Re-inicializar"
+
+#: ext/by_text/views/shortcodes/woof_text_filter.php:18
+msgid "enter a product title here ..."
+msgstr "introduce aquí el título de un producto..."
+
+#: views/plugin_options.php:2304
+msgid "Works for radio and checkboxes only. Allows show radio/checkboxes in 1 row!"
+msgstr "Funciona solo para botones de radio y casillas de verificación. Permite mostrar botones de radio y casillas en una fila."
+
+#: views/plugin_options.php:2303
+msgid "Display items in a row"
+msgstr "Mostrar los elementos en una fila"
+
+#: views/plugin_options.php:2190
+msgid "Show/Hide taxonomy block title on the front"
+msgstr "Mostrar/Ocultar el bloque de título de la taxonomía en la web"
+
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:13
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:13
+#: ext/meta_filter/html_types/slider/views/additional_options.php:16
+#: ext/meta_filter/html_types/select/views/additional_options.php:12
+#: views/plugin_options.php:2189
+msgid "Show title label"
+msgstr "Mostrar etiqueta de título"
+
+#: views/plugin_options.php:2291
+msgid "Max height of  the block"
+msgstr "Altura máxima del bloque"
+
+#: views/plugin_options.php:2286
+msgid "Max height of the block"
+msgstr "Altura máxima del bloque"
+
+#: views/plugin_options.php:2274
+msgid "leave it empty to use native taxonomy name"
+msgstr "dejarla vacía para usar el nombre de la taxonomía nativa"
+
+#: views/plugin_options.php:2270
+msgid "For example you want to show title of Product Categories as \"My Products\". Just for your convenience."
+msgstr "Por ejemplo, deseas mostrar el título de las categorías de producto como «Mis productos»."
+
+#: views/plugin_options.php:2269
+msgid "Taxonomy custom label"
+msgstr "Etiqueta de la taxonomía personalizada"
+
+#: views/plugin_options.php:2733
+msgid "WOOCS"
+msgstr "WOOCS"
+
+#: views/plugin_options.php:2723
+msgid "full version of the plugin"
+msgstr "versión completa del plugin"
+
+#: views/plugin_options.php:2135
+msgid "Exports your database, does a find and replace on URLs and file paths, then allows you to save it to your computer."
+msgstr "Exporta tu base de datos, busca y reemplaza en URLs y rutas, después te permite guardarla en tu ordenador."
+
+#: views/plugin_options.php:2129
+msgid "Cache pages, allow to make a lot of search queries on your site without high load on your server!"
+msgstr "Las páginas de caché te permiten hacer muchas consultas de búsqueda en tu sitio sin una carga de trabajo excesiva en tu servidor."
+
+#: views/plugin_options.php:2124
+msgid "Widget Logic lets you control on which pages widgets appear using"
+msgstr "Widget Logic te permite controlar en qué páginas se están usando los widgets"
+
+#: views/plugin_options.php:2119
+msgid "This plugin provides an easy to use interface to create and administer custom post types and taxonomies in WordPress."
+msgstr "Este plugin proporciona una interfaz fácil de usar para crear y administrar tipos de contenido personalizados y taxonomías en WordPress."
+
+#: views/plugin_options.php:2114
+msgid "Shrink, beautify, track, manage and share any URL on or off of your WordPress website. Create links that look how you want using your own domain name!"
+msgstr "Reduce, embellece, rastrea, administra y comparte cualquier URL de dentro o fuera de tu web con WordPress. ¡Crea enlaces que se vean como tú quieras usando tu propio nombre de dominio!"
+
+#: views/plugin_options.php:2108
+msgid "It concatenates all scripts and styles, minifies and compresses them, adds expires headers, caches them, and moves styles to the page head, and scripts to the footer"
+msgstr "Concatena todos los scripts y estilos, los minimiza y comprime, agrega encabezados caducados, los almacena en caché, mueve los estilos al encabezado de la página y los scripts al pie de página."
+
+#: views/plugin_options.php:2102
+msgid "Insert Gallery in post, page and custom post types just in two clicks. You can create great galleries for your products."
+msgstr "Inserta la galería en entradas, páginas y tipos de contenido personalizados con solo dos clics. Puedes crear estupendas galerías para tus productos."
+
+#: views/plugin_options.php:2087
+msgid "WooCommerce Currency Switcher – is the plugin that allows you to switch to different currencies and get their rates converted in the real time!"
+msgstr "WooCommerce Currency Switcher es el plugin que te permite cambiar entre diferentes monedas y realizar conversiones en tiempo real."
+
+#: views/plugin_options.php:2079
+msgid "Recommended plugins for your site flexibility and features"
+msgstr "Plugins recomendados para la flexibilidad y las funciones de tu web"
+
+#: views/plugin_options.php:1987
+msgid "Demo sites"
+msgstr "Sitios de demostración"
+
+#: views/plugin_options.php:872
+msgid "JavaScript code after AJAX is done"
+msgstr "Código JavaScript después de que AJAX esté listo"
+
+#: views/plugin_options.php:868
+msgid "If you are need to customize something and you don't want to lose your changes after update"
+msgstr "Si necesitas personalizar algo y no quieres perder tus cambios después de la actualización"
+
+#: views/plugin_options.php:864
+msgid "Custom CSS code"
+msgstr "Código CSS personalizado"
+
+#: ext/stat/views/tabs_content.php:630 ext/stat/views/tabs_content.php:653
+msgid "WOOF cannot create database table for statistic! Make sure that your mysql user has the CREATE privilege! Do it manually using your host panel&amp;phpmyadmin!"
+msgstr "¡WOOF no puede crear una tabla de base de datos para estadísticas! ¡Asegúrate de que tu usuario de mysql tenga el privilegio CREATE! ¡Hazlo manualmente usando tu panel de phpmyadmin!"
+
+#: views/plugin_options.php:1299 views/plugin_options.php:1398
+msgid "clean cache automatically each 7 days"
+msgstr "Limpiar cache cada 7 días automáticamente"
+
+#: views/plugin_options.php:1298 views/plugin_options.php:1397
+msgid "clean cache automatically each 6 days"
+msgstr "Limpiar cache cada 6 días automáticamente"
+
+#: views/plugin_options.php:1297 views/plugin_options.php:1396
+msgid "clean cache automatically each 5 days"
+msgstr "Limpiar cache cada 5 días automáticamente"
+
+#: views/plugin_options.php:1296 views/plugin_options.php:1395
+msgid "clean cache automatically each 4 days"
+msgstr "Limpiar cache cada 4 días automáticamente"
+
+#: views/plugin_options.php:1295 views/plugin_options.php:1394
+msgid "clean cache automatically each 3 days"
+msgstr "Limpiar cache cada 3 días automáticamente"
+
+#: views/plugin_options.php:1294 views/plugin_options.php:1393
+msgid "clean cache automatically each 2 days"
+msgstr "Limpiar cache cada 2 días automáticamente"
+
+#: views/plugin_options.php:1293 views/plugin_options.php:1392
+msgid "clean cache automatically daily"
+msgstr "Limpiar cache a diario automáticamente"
+
+#: views/plugin_options.php:1292 views/plugin_options.php:1391
+msgid "clean cache automatically twicedaily"
+msgstr "Limpiar cache automáticamente dos veces al día"
+
+#: views/plugin_options.php:1291 views/plugin_options.php:1390
+msgid "clean cache automatically hourly"
+msgstr "Vaciar caché automáticamente cada hora"
+
+#: views/plugin_options.php:1290 views/plugin_options.php:1389
+msgid "do not clean cache automatically"
+msgstr "No vaciar caché automáticamente"
+
+#: views/plugin_options.php:1282
+msgid "clear cache"
+msgstr "Vaciar cache"
+
+#: views/plugin_options.php:1344
+msgid "Useful thing when you already set your site IN THE PRODUCTION MODE and use dynamic recount -> it make recount very fast! Of course if you added new products which have to be in search results you have to clean this cache OR you can set time period for auto cleaning!"
+msgstr "Algo útil cuando ya estableces tu sitio EN EL MODO DE PRODUCCIÓN y usas el recuento dinámico -> ¡hace el recuento muy rápido! Por supuesto, si añades nuevos productos que deben estar en los resultados de búsqueda, debes limpiar este caché o puedes establecer un período de tiempo para la limpieza automática."
+
+#: views/plugin_options.php:1255
+msgid "Cache dynamic recount number for each item in filter"
+msgstr "Número de recuento dinámico de la caché para cada elemento en el filtro"
+
+#: views/plugin_options.php:1172
+msgid "If you want show relevant tags on the categories pages you should activate show count, dynamic recount and <b>hide empty terms</b> in the tab Options. But if you do not want show count (number) text near each term - set Yes here."
+msgstr "Si quieres mostrar etiquetas relevantes en las páginas de categorías, debes activar mostrar cuenta, recuento dinámico y <b> ocultar términos vacíos </b> en la pestaña Opciones. Pero si no quieres mostrar el texto de la cuenta (número) junto a cada término, establece Sí aquí."
+
+#: views/plugin_options.php:1148
+msgid "Hide terms count text"
+msgstr "Ocultar texto de recuento de términos"
+
+#: views/plugin_options.php:1095
+msgid "If you have troubles with relevant terms recount on categories pages with dynamic recount for not logged in users - select transient."
+msgstr "Si tienes problemas con el recuento de términos relevantes en las páginas de categorías con recuento dinámico para usuarios no registrados, selecciona dato transitorio."
+
+#: views/plugin_options.php:1068
+msgid "Storage type"
+msgstr "Tipo de almacenamiento"
+
+#: views/plugin_options.php:982
+msgid "If you do not like search key \"swoof\" in the search link you can replace it by your own word. But be care to avoid conflicts with any themes and plugins, + never define it as symbol \"s\".<br /> Not understood? Simply do not touch it!"
+msgstr "Si no te gusta la clave de búsqueda «swoof» en el enlace de búsqueda puedes reemplazarla por tu propia palabra. Pero procura evitar conflictos con temas y plugins, y nunca la definas como el símbolo «s».<br />¿No lo entiendes? ¡Simplemente, no lo toques!"
+
+#: views/plugin_options.php:969
+msgid "Search slug"
+msgstr "Buscar URL"
+
+#: ext/by_text/views/options.php:119
+msgid "Set \"none\" to disable placeholder for this textinput"
+msgstr "Escoge \"ninguno\" para desactivar el marcador de posición para esta entrada de texto"
+
+#: ext/by_text/views/options.php:146
+msgid "Search by title AND content"
+msgstr "Buscar por título Y contenido"
+
+#: ext/by_text/views/options.php:145
+msgid "Search by title OR content"
+msgstr "Buscar por título O contenido"
+
+#: ext/by_text/views/options.php:141
+msgid "Search by content"
+msgstr "Buscar por contenido"
+
+#: ext/by_text/views/options.php:140
+msgid "Search by title"
+msgstr "Buscar por título"
+
+#: views/plugin_options.php:955
+msgid "Use it if you can not translate your custom taxonomies labels and attributes labels by another plugins."
+msgstr "Úsalo si no puedes traducir tus etiquetas de taxonomías personalizadas y etiquetas de atributos mediante otros plugins."
+
+#: views/plugin_options.php:931
+msgid "WPML taxonomies labels translations"
+msgstr "Traducciones de etiquetas de taxonomías WPML"
+
+#: views/plugin_options.php:2610
+msgid "Drop-down price filter first option text"
+msgstr "Texto de la primera opción del filtro de precios desplegable"
+
+#: views/plugin_options.php:2609
+msgid "Drop-down price filter text"
+msgstr "Texto desplegable del filtro de precios"
+
+#: views/plugin_options.php:2546
+msgid "Text before the price filter range slider. Leave it empty if you not need it!"
+msgstr "Texto antes del filtro de rango de precios del carrusel. ¡Déjalo vacío si no lo necesitas!"
+
+#: ext/by_text/views/options.php:339
+msgid "Image for text search button which appears near input when users typing there any symbols. Better use png. Size is: 20x20 px."
+msgstr "Imagen para el botón de búsqueda de texto que aparece cerca de la entrada cuando los usuarios escriben cualquier símbolo. Mejor usar png. Tamaño: 20x20 px."
+
+#: ext/image/index.php:186
+msgid "Image for image checkboxes when its checked. Better use png. Size is: 25x25 px."
+msgstr "Imagen para usar en la casilla de verificación cuando está marcada. Mejor usar png de tamaño 25x25 px."
+
+#: ext/image/index.php:178
+msgid "Image for checked image type checkbox"
+msgstr "Imagen para usar en la casilla de verificación de tipo de imagen cuando está marcada"
+
+#: views/plugin_options.php:691
+msgid "Image when you select in tab Options \"Hide childs in checkboxes and radio\". By default it is green minus."
+msgstr "Imagen cuando seleccionas en la pestaña de opciones «Ocultar hijos en casillas de verificación y radio». Por defecto es un signo menos verde."
+
+#: views/plugin_options.php:679
+msgid "Image when you select in tab Options \"Hide childs in checkboxes and radio\". By default it is green cross."
+msgstr "Imagen cuando seleccionas en la pestaña de opciones «Ocultar hijos en casillas de verificación y radio». Por defecto es una cruz verde."
+
+#: views/plugin_options.php:663
+msgid "Text which displayed instead filter while it is closed if selected."
+msgstr "El texto que se muestra en su lugar filtra mientras está cerrado si se selecciona."
+
+#: views/plugin_options.php:656
+msgid "Auto filter close/open text"
+msgstr "Filtro automático para cerrar/abrir texto"
+
+#: views/plugin_options.php:647
+msgid "Image which displayed instead filter while it is closed if selected. Write \"none\" here if you want to use text only!"
+msgstr "Imagen que se mostrará en lugar del filtro mientras esté cerrado y seleccionado. Escribe \"none\" aquí si quieres usar solo texto."
+
+#: views/plugin_options.php:639
+msgid "Auto filter close/open image"
+msgstr "Filtro automático cerrar/abrir imagen"
+
+#: views/plugin_options.php:560
+msgid "If in options tab option \"Set filter automatically\" is \"Yes\" you can hide filter and show hide/show button instead of it."
+msgstr "Si en la pestaña de opciones \"Establecer el filtro automáticamente\" está en \"Sí\" puedes ocultar el filtro y mostrar en su lugar el botón de ocultar/mostrar."
+
+#: views/plugin_options.php:536
+msgid "Hide auto filter by default"
+msgstr "Ocultar auto filtro por defecto"
+
+#: views/plugin_options.php:368
+msgid "Word while searching is going on front when \"Overlay skins\" is default."
+msgstr "La palabra, durante la búsqueda, aparece en primer plano cuando «Estilos de superposición» es el valor por defecto."
+
+#: views/plugin_options.php:347
+msgid "Loading word"
+msgstr "Palabra «Cargando»"
+
+#: views/plugin_options.php:329
+msgid "Plainoverlay color"
+msgstr "Transparencia de color"
+
+#: ext/image/index.php:128 ext/by_text/views/options.php:340
+#: views/plugin_options.php:337
+msgid "Example"
+msgstr "Ejemplo"
+
+#: views/plugin_options.php:311
+msgid "Overlay image background"
+msgstr "Fondo de la imagen de superposición"
+
+#: views/plugin_options.php:282
+msgid "Overlay skins"
+msgstr "Estilos de superposición"
+
+#: classes/widgets.php:161 classes/widgets.php:177 views/plugin_options.php:262
+#: views/plugin_options.php:575 views/plugin_options.php:2335
+msgid "Default"
+msgstr "Por defecto"
+
+#: views/plugin_options.php:239
+msgid "Radio and checkboxes skin"
+msgstr "Estilo de radio y casillas de verificación"
+
+#: ext/products_messenger/views/options.php:29
+#: ext/by_featured/views/options.php:30 ext/by_backorder/views/options.php:30
+#: ext/by_rating/views/options.php:28 ext/by_author/views/options.php:32
+#: ext/meta_filter/classes/woof_type_meta_filter.php:53
+#: ext/meta_filter/index.php:212 ext/by_instock/views/options.php:30
+#: ext/query_save/views/options.php:29 ext/by_text/views/options.php:29
+#: views/plugin_options.php:2784 views/plugin_options.php:2957
+msgid "additional options"
+msgstr "opciones adicionales"
+
+#: views/plugin_options.php:2777
+msgid "excluded terms ids"
+msgstr "IDs de términos excluidos"
+
+#: views/plugin_options.php:2763
+msgid "View of the taxonomies terms on the front"
+msgstr "Ver los términos de las taxonomias en la vista pública"
+
+#: ext/products_messenger/views/options.php:15
+#: ext/by_onsales/views/options.php:16 ext/by_featured/views/options.php:16
+#: ext/by_backorder/views/options.php:16 ext/by_rating/views/options.php:16
+#: ext/by_author/views/options.php:19
+#: ext/meta_filter/classes/woof_type_meta_filter.php:41
+#: ext/meta_filter/views/tabs_content.php:102 ext/meta_filter/index.php:200
+#: ext/by_instock/views/options.php:16 ext/query_save/views/options.php:15
+#: ext/by_text/views/options.php:16 views/plugin_options.php:2753
+#: views/plugin_options.php:2939
+msgid "move"
+msgstr "mover"
+
+#: ext/products_messenger/views/options.php:15
+#: ext/by_onsales/views/options.php:16 ext/by_featured/views/options.php:16
+#: ext/by_backorder/views/options.php:16 ext/by_rating/views/options.php:16
+#: ext/by_author/views/options.php:19
+#: ext/meta_filter/classes/woof_type_meta_filter.php:41
+#: ext/meta_filter/views/tabs_content.php:102 ext/meta_filter/index.php:200
+#: ext/by_instock/views/options.php:16 ext/query_save/views/options.php:15
+#: ext/by_text/views/options.php:16 views/plugin_options.php:2753
+#: views/plugin_options.php:2939
+msgid "drag and drope"
+msgstr "arrastrar y soltar"
+
+#: views/plugin_options.php:135
+msgid "Info"
+msgstr "Info"
+
+#: views/plugin_options.php:106
+msgid "Advanced"
+msgstr "Avanzadas"
+
+#: ext/stat/views/tabs_content.php:18 views/plugin_options.php:92
+#: views/plugin_options.php:850
+msgid "Options"
+msgstr "Opciones"
+
+#: views/plugin_options.php:68
+msgid "ATTENTION! Your version of the woocommerce plugin is too obsolete. There is no warranty for working with WOOF!!"
+msgstr "¡ATENCIÓN! Tu versión del plugin de woocommerce es demasiado obsoleta. ¡¡No se garantiza el funcionamiento normal con WOOF!!"
+
+#: index.php:1466
+msgid "Reset button text in the search form. Write \"none\" to hide this button on front."
+msgstr "Restablecer el texto del botón en el formulario de búsqueda. Escribe «none» para ocultar este botón en la portada."
+
+#: index.php:1465
+msgid "Reset button text"
+msgstr "Texto del botón de restablecer"
+
+#: index.php:1457
+msgid "Filter button text in the search form"
+msgstr "Botón de filtro de texto en el formulario de búsqueda."
+
+#: index.php:1456
+msgid "Filter button text"
+msgstr "Texto del botón de filtro"
+
+#: index.php:1431
+msgid "Red buttons on the top of the shop page when searching done"
+msgstr "Botones rojos en la parte superior de la página de la tienda cuando se realiza la búsqueda"
+
+#: index.php:1430
+msgid "Hide woof top panel buttons"
+msgstr "Ocultar botones del panel de control de Woof"
+
+#: views/plugin_options.php:2943
+msgid "Show woocommerce filter by price inside woof search form"
+msgstr "Mostrar el filtro de woocommerce por precio dentro del formulario de búsqueda de woof"
+
+#: ext/by_text/views/options.php:20
+msgid "Show textinput for searching by products title"
+msgstr "Mostrar entrada de texto para buscar por título de producto"
+
+#: views/plugin_options.php:447
+msgid "Use beauty scroll when you apply max height for taxonomy block on the front"
+msgstr "Usa «beauty scroll» cuando apliques la altura máxima para el bloque de taxonomías en la portada"
+
+#: views/plugin_options.php:417
+msgid "Use beauty scroll"
+msgstr "Usar «beauty scroll»"
+
+#: index.php:1418
+msgid "Hide childs in checkboxes and radio. Near checkbox/radio which has childs will be plus icon to show childs."
+msgstr "Ocultar hijos en las casillas de verificación y radio. Cerca de la casilla de verificación/radio que tenga hijos habrá un icono del signo de suma (+) para mostrarlos."
+
+#: index.php:1417
+msgid "Hide childs in checkboxes and radio"
+msgstr "Ocultar los hijos en las casillas de verificación y radio"
+
+#: views/plugin_options.php:408
+msgid "Use chosen javascript library on the front of your site for drop-downs."
+msgstr "Utiliza la biblioteca de JavaScript elegida en la parte visible de tu sitio para los menús desplegables."
+
+#: views/plugin_options.php:378
+msgid "Use chosen"
+msgstr "Usar elegido "
+
+#: index.php:1404
+msgid "Try to ajaxify the shop"
+msgstr "Intentar aplicar Ajax a la tienda"
+
+#: index.php:1393
+msgid "Hide empty terms in \"Dynamic recount\" mode"
+msgstr "Ocultar términos vacíos en el modo «Recuento dinámico»"
+
+#: index.php:1392
+msgid "Hide empty terms"
+msgstr "Ocultar los términos vacíos"
+
+#: classes/widgets.php:158 index.php:1379
+msgid "Dynamic recount"
+msgstr "Recuento dinámico"
+
+#: index.php:1367
+msgid "Show count of items near taxonomies terms on the front"
+msgstr "Mostrar recuento de elementos junto a los términos de taxonomías en portada"
+
+#: index.php:1366
+msgid "Show count"
+msgstr "Mostrar recuento"
+
+#: index.php:1354
+msgid "Start searching just after changing any of the elements on the search form"
+msgstr "Empezar a buscar justo después de cambiar cualquiera de los elementos del formulario de búsqueda."
+
+#: classes/widgets.php:174 index.php:1353
+msgid "Autosubmit"
+msgstr "Autoenviar"
+
+#: ext/products_messenger/views/options.php:23
+#: ext/products_messenger/views/options.php:115
+#: ext/products_messenger/views/options.php:141
+#: ext/by_onsales/views/options.php:23 ext/by_featured/views/options.php:24
+#: ext/sections/views/tabs_content.php:35 ext/by_backorder/views/options.php:24
+#: ext/by_rating/views/options.php:23 ext/by_rating/views/options.php:52
+#: ext/by_author/views/options.php:27
+#: ext/meta_filter/classes/woof_type_meta_filter.php:49
+#: ext/meta_filter/index.php:208
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:20
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:45
+#: ext/meta_filter/html_types/textinput/views/additional_options.php:47
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:20
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:45
+#: ext/meta_filter/html_types/slider/views/additional_options.php:23
+#: ext/meta_filter/html_types/slider/views/additional_options.php:48
+#: ext/meta_filter/html_types/select/views/additional_options.php:19
+#: ext/meta_filter/html_types/select/views/additional_options.php:45
+#: ext/by_instock/views/options.php:24 ext/turbo_mode/views/tabs_content.php:33
+#: ext/turbo_mode/index.php:580 ext/query_save/views/options.php:23
+#: ext/query_save/views/options.php:150 ext/by_text/views/options.php:24
+#: ext/by_text/views/options.php:171 ext/by_text/views/options.php:199
+#: ext/by_text/views/options.php:227 ext/by_text/views/options.php:281
+#: ext/by_text/views/options.php:307 ext/slideout/views/tabs_content.php:305
+#: classes/widgets.php:146 classes/widgets.php:162 classes/widgets.php:178
+#: classes/widgets.php:209 views/plugin_options.php:386
+#: views/plugin_options.php:425 views/plugin_options.php:505
+#: views/plugin_options.php:543 views/plugin_options.php:889
+#: views/plugin_options.php:1018 views/plugin_options.php:1103
+#: views/plugin_options.php:1155 views/plugin_options.php:1187
+#: views/plugin_options.php:1226 views/plugin_options.php:1262
+#: views/plugin_options.php:1361 views/plugin_options.php:1428
+#: views/plugin_options.php:1470 views/plugin_options.php:2197
+#: views/plugin_options.php:2217 views/plugin_options.php:2311
+#: views/plugin_options.php:2525 views/plugin_options.php:2564
+#: views/plugin_options.php:2642 views/plugin_options.php:2947 index.php:1348
+#: index.php:1360 index.php:1373 index.php:1386 index.php:1399 index.php:1411
+#: index.php:1424 index.php:1437 index.php:1450
+msgid "No"
+msgstr "No"
+
+#: ext/products_messenger/views/options.php:24
+#: ext/products_messenger/views/options.php:116
+#: ext/by_onsales/views/options.php:24 ext/by_featured/views/options.php:25
+#: ext/sections/views/tabs_content.php:36 ext/by_backorder/views/options.php:25
+#: ext/by_rating/views/options.php:24 ext/by_rating/views/options.php:53
+#: ext/by_author/views/options.php:28
+#: ext/meta_filter/classes/woof_type_meta_filter.php:50
+#: ext/meta_filter/index.php:209
+#: ext/meta_filter/html_types/mselect/views/additional_options.php:21
+#: ext/meta_filter/html_types/textinput/views/additional_options.php:48
+#: ext/meta_filter/html_types/datepicker/views/additional_options.php:21
+#: ext/meta_filter/html_types/slider/views/additional_options.php:24
+#: ext/meta_filter/html_types/select/views/additional_options.php:20
+#: ext/by_instock/views/options.php:25 ext/turbo_mode/views/tabs_content.php:34
+#: ext/query_save/views/options.php:24 ext/query_save/views/options.php:152
+#: ext/by_text/views/options.php:25 ext/by_text/views/options.php:172
+#: ext/by_text/views/options.php:200 ext/by_text/views/options.php:228
+#: ext/by_text/views/options.php:282 ext/by_text/views/options.php:308
+#: ext/slideout/views/tabs_content.php:304 classes/widgets.php:147
+#: classes/widgets.php:163 classes/widgets.php:179 classes/widgets.php:210
+#: views/plugin_options.php:387 views/plugin_options.php:426
+#: views/plugin_options.php:506 views/plugin_options.php:544
+#: views/plugin_options.php:888 views/plugin_options.php:1019
+#: views/plugin_options.php:1188 views/plugin_options.php:1227
+#: views/plugin_options.php:1263 views/plugin_options.php:1362
+#: views/plugin_options.php:1429 views/plugin_options.php:1471
+#: views/plugin_options.php:2198 views/plugin_options.php:2312
+#: views/plugin_options.php:2526 views/plugin_options.php:2643 index.php:1345
+#: index.php:1361 index.php:1374 index.php:1387 index.php:1412 index.php:1425
+#: index.php:1438 index.php:1451
+msgid "Yes"
+msgstr "Si"
+
+#: index.php:1339
+msgid "Set filter automatically on the shop page"
+msgstr "Configurar el filtro automáticamente en la pagina de la tienda"
+
+#: index.php:1338
+msgid "Set filter automatically"
+msgstr "Configurar el filtro automáticamente"
+
+#: index.php:968
+msgid "hide products filter"
+msgstr "ocultar los filtros del producto"
+
+#: index.php:967
+msgid "show products filter"
+msgstr "mostrar los filtros del producto"
+
+#: index.php:894 index.php:969
+msgid "price range"
+msgstr "rango de precios"
+
+#: ext/quick_search/index.php:631
+msgid "SKU"
+msgstr "Nº Referencia"
+
+#: index.php:893
+msgid "per page"
+msgstr "por página"
+
+#: index.php:891
+msgid "orderby"
+msgstr "orderby"
+
+#: index.php:961
+msgid "Loading ..."
+msgstr "Cargando ..."
+
+#: index.php:784
+msgid "Products Filter"
+msgstr "Filtro de productos"
+
+#: index.php:552
+msgid "Documentation"
+msgstr "Documentación"
+
+#: index.php:551
+msgid "Settings"
+msgstr "Configurar"
+
+#: index.php:539
+msgid "each %s days"
+msgstr "cada %s días"
+
+#: ext/quick_search/index.php:628 classes/widgets.php:130
+#: views/plugin_options.php:2337
+msgid "Title"
+msgstr "Títol"
+
+#: classes/widgets.php:115
+msgid "WooCommerce Products Filter"
+msgstr "WooCommerce Products Filter"
+
+#: classes/widgets.php:11
+msgid "WooCommerce Products Filter by realmag777"
+msgstr "WooCommerce Products Filter by realmag777"
+
+#. Plugin Name of the plugin
+#: classes/widgets.php:9
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF - WooCommerce Products Filter"
+
+#: classes/helper.php:387
+msgid "Price:"
+msgstr "Precio:"
+
+#: ext/slideout/views/tabs_content.php:107 ext/slideout/index.php:111
+#: classes/helper.php:385 views/woof.php:44
+msgid "Filter"
+msgstr "Filtro"
+
+#: classes/helper.php:384
+msgid "Max price"
+msgstr "Precio máximo"
+
+#: classes/helper.php:383
+msgid "Min price"
+msgstr "Precio mínimo"
